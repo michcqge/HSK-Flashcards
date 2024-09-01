@@ -1,0 +1,6502 @@
+[
+    {
+      "other": "唉",
+      "pinyin": "āi",
+      "english": "interjection or grunt of agreement"
+    },
+    {
+      "other": "爱护",
+      "pinyin": "ài hù",
+      "english": "to cherish"
+    },
+    {
+      "other": "爱惜",
+      "pinyin": "ài xī",
+      "english": "to cherish"
+    },
+    {
+      "other": "爱心",
+      "pinyin": "ài xīn",
+      "english": "compassion"
+    },
+    {
+      "other": "安慰",
+      "pinyin": "ān wèi",
+      "english": "to comfort"
+    },
+    {
+      "other": "安装",
+      "pinyin": "ān zhuāng",
+      "english": "to install"
+    },
+    {
+      "other": "岸",
+      "pinyin": "àn",
+      "english": "bank"
+    },
+    {
+      "other": "把握",
+      "pinyin": "bǎ wò",
+      "english": "to grasp (also fig.)"
+    },
+    {
+      "other": "摆",
+      "pinyin": "bǎi",
+      "english": "to arrange"
+    },
+    {
+      "other": "班主任",
+      "pinyin": "bān zhǔ rèn",
+      "english": "teacher in charge of a class"
+    },
+    {
+      "other": "办理",
+      "pinyin": "bàn lǐ",
+      "english": "to handle"
+    },
+    {
+      "other": "棒",
+      "pinyin": "bàng",
+      "english": "a stick"
+    },
+    {
+      "other": "傍晚",
+      "pinyin": "bàng wǎn",
+      "english": "in the evening"
+    },
+    {
+      "other": "包裹",
+      "pinyin": "bāo guǒ",
+      "english": "wrap up"
+    },
+    {
+      "other": "包含",
+      "pinyin": "bāo hán",
+      "english": "to contain"
+    },
+    {
+      "other": "包子",
+      "pinyin": "bāo zi",
+      "english": "steamed stuffed bun"
+    },
+    {
+      "other": "薄",
+      "pinyin": "báo",
+      "english": "thin"
+    },
+    {
+      "other": "宝贝",
+      "pinyin": "bǎo bèi",
+      "english": "treasured object"
+    },
+    {
+      "other": "宝贵",
+      "pinyin": "bǎo guì",
+      "english": "valuable"
+    },
+    {
+      "other": "保持",
+      "pinyin": "bǎo chí",
+      "english": "to keep"
+    },
+    {
+      "other": "保存",
+      "pinyin": "bǎo cún",
+      "english": "to conserve"
+    },
+    {
+      "other": "保留",
+      "pinyin": "bǎo liú",
+      "english": "to retain"
+    },
+    {
+      "other": "保险",
+      "pinyin": "bǎo xiǎn",
+      "english": "insurance"
+    },
+    {
+      "other": "报告",
+      "pinyin": "bào gào",
+      "english": "to inform"
+    },
+    {
+      "other": "悲观",
+      "pinyin": "bēi guān",
+      "english": "pessimistic"
+    },
+    {
+      "other": "被子",
+      "pinyin": "bèi zi",
+      "english": "quilt"
+    },
+    {
+      "other": "背",
+      "pinyin": "bèi",
+      "english": "the back of a body or object"
+    },
+    {
+      "other": "背景",
+      "pinyin": "bèi jǐng",
+      "english": "background"
+    },
+    {
+      "other": "本科",
+      "pinyin": "běn kē",
+      "english": "undergraduate course"
+    },
+    {
+      "other": "本领",
+      "pinyin": "běn lǐng",
+      "english": "skill"
+    },
+    {
+      "other": "本质",
+      "pinyin": "běn zhì",
+      "english": "essence"
+    },
+    {
+      "other": "比例",
+      "pinyin": "bǐ lì",
+      "english": "proportion"
+    },
+    {
+      "other": "比如",
+      "pinyin": "bǐ rú",
+      "english": "for example"
+    },
+    {
+      "other": "彼此",
+      "pinyin": "bǐ cǐ",
+      "english": "each other"
+    },
+    {
+      "other": "必然",
+      "pinyin": "bì rán",
+      "english": "inevitable"
+    },
+    {
+      "other": "必需",
+      "pinyin": "bì xū",
+      "english": "to need"
+    },
+    {
+      "other": "必要",
+      "pinyin": "bì yào",
+      "english": "necessary"
+    },
+    {
+      "other": "毕竟",
+      "pinyin": "bì jìng",
+      "english": "after all"
+    },
+    {
+      "other": "避免",
+      "pinyin": "bì miǎn",
+      "english": "to avert"
+    },
+    {
+      "other": "鞭炮",
+      "pinyin": "biān pào",
+      "english": "firecrackers"
+    },
+    {
+      "other": "编辑",
+      "pinyin": "biān jí",
+      "english": "to edit"
+    },
+    {
+      "other": "便",
+      "pinyin": "biàn",
+      "english": "ordinary"
+    },
+    {
+      "other": "辩论",
+      "pinyin": "biàn lùn",
+      "english": "debate"
+    },
+    {
+      "other": "标点",
+      "pinyin": "biāo diǎn",
+      "english": "punctuation"
+    },
+    {
+      "other": "标志",
+      "pinyin": "biāo zhì",
+      "english": "sign"
+    },
+    {
+      "other": "表面",
+      "pinyin": "biǎo miàn",
+      "english": "surface"
+    },
+    {
+      "other": "表明",
+      "pinyin": "biǎo míng",
+      "english": "to make clear"
+    },
+    {
+      "other": "表情",
+      "pinyin": "biǎo qíng",
+      "english": "(facial) expression"
+    },
+    {
+      "other": "表现",
+      "pinyin": "biǎo xiàn",
+      "english": "to show"
+    },
+    {
+      "other": "丙",
+      "pinyin": "bǐng",
+      "english": "third of 10 heavenly stems 十天干"
+    },
+    {
+      "other": "病毒",
+      "pinyin": "bìng dú",
+      "english": "virus"
+    },
+    {
+      "other": "玻璃",
+      "pinyin": "bō li",
+      "english": "glass"
+    },
+    {
+      "other": "博物馆",
+      "pinyin": "bó wù guǎn",
+      "english": "museum"
+    },
+    {
+      "other": "脖子",
+      "pinyin": "bó zi",
+      "english": "neck"
+    },
+    {
+      "other": "不必",
+      "pinyin": "bù bì",
+      "english": "need not"
+    },
+    {
+      "other": "不断",
+      "pinyin": "bù duàn",
+      "english": "unceasing"
+    },
+    {
+      "other": "不见得",
+      "pinyin": "bù jiàn de",
+      "english": "not necessarily"
+    },
+    {
+      "other": "不耐烦",
+      "pinyin": "bù nài fán",
+      "english": "impatience"
+    },
+    {
+      "other": "不要紧",
+      "pinyin": "bù yào jǐn",
+      "english": "unimportant"
+    },
+    {
+      "other": "补充",
+      "pinyin": "bǔ chōng",
+      "english": "to replenish"
+    },
+    {
+      "other": "不安",
+      "pinyin": "bù ān",
+      "english": "unpeaceful"
+    },
+    {
+      "other": "不得了",
+      "pinyin": "bù dé liǎo",
+      "english": "desperately serious"
+    },
+    {
+      "other": "不好意思",
+      "pinyin": "bù hǎo yì si",
+      "english": "to feel embarrassed"
+    },
+    {
+      "other": "不免",
+      "pinyin": "bù miǎn",
+      "english": "inevitably"
+    },
+    {
+      "other": "不然",
+      "pinyin": "bù rán",
+      "english": "not so"
+    },
+    {
+      "other": "不如",
+      "pinyin": "bù rú",
+      "english": "not equal to"
+    },
+    {
+      "other": "不足",
+      "pinyin": "bù zú",
+      "english": "insufficient"
+    },
+    {
+      "other": "布",
+      "pinyin": "bù",
+      "english": "cloth"
+    },
+    {
+      "other": "步骤",
+      "pinyin": "bù zhòu",
+      "english": "procedure"
+    },
+    {
+      "other": "部门",
+      "pinyin": "bù mén",
+      "english": "department"
+    },
+    {
+      "other": "财产",
+      "pinyin": "cái chǎn",
+      "english": "property"
+    },
+    {
+      "other": "踩",
+      "pinyin": "cǎi",
+      "english": "to step on"
+    },
+    {
+      "other": "采访",
+      "pinyin": "cǎi fǎng",
+      "english": "to interview"
+    },
+    {
+      "other": "采取",
+      "pinyin": "cǎi qǔ",
+      "english": "to adopt or carry out (measures"
+    },
+    {
+      "other": "彩虹",
+      "pinyin": "cǎi hóng",
+      "english": "rainbow"
+    },
+    {
+      "other": "参考",
+      "pinyin": "cān kǎo",
+      "english": "consultation"
+    },
+    {
+      "other": "参与",
+      "pinyin": "cān yù",
+      "english": "to participate (in sth)"
+    },
+    {
+      "other": "餐厅",
+      "pinyin": "cān tīng",
+      "english": "dining hall"
+    },
+    {
+      "other": "残疾",
+      "pinyin": "cán jí",
+      "english": "disabled"
+    },
+    {
+      "other": "惭愧",
+      "pinyin": "cán kuì",
+      "english": "ashamed"
+    },
+    {
+      "other": "操场",
+      "pinyin": "cāo chǎng",
+      "english": "playground"
+    },
+    {
+      "other": "操心",
+      "pinyin": "cāo xīn",
+      "english": "to worry about"
+    },
+    {
+      "other": "册",
+      "pinyin": "cè",
+      "english": "book"
+    },
+    {
+      "other": "测验",
+      "pinyin": "cè yàn",
+      "english": "test"
+    },
+    {
+      "other": "厕所",
+      "pinyin": "cè suǒ",
+      "english": "toilet"
+    },
+    {
+      "other": "曾经",
+      "pinyin": "céng jīng",
+      "english": "once"
+    },
+    {
+      "other": "插",
+      "pinyin": "chā",
+      "english": "to insert"
+    },
+    {
+      "other": "差别",
+      "pinyin": "chā bié",
+      "english": "difference"
+    },
+    {
+      "other": "叉子",
+      "pinyin": "chā zi",
+      "english": "fork"
+    },
+    {
+      "other": "拆",
+      "pinyin": "chāi",
+      "english": "to tear open"
+    },
+    {
+      "other": "产品",
+      "pinyin": "chǎn pǐn",
+      "english": "goods"
+    },
+    {
+      "other": "产生",
+      "pinyin": "chǎn shēng",
+      "english": "to arise"
+    },
+    {
+      "other": "长途",
+      "pinyin": "cháng tú",
+      "english": "long distance"
+    },
+    {
+      "other": "常识",
+      "pinyin": "cháng shí",
+      "english": "common sense"
+    },
+    {
+      "other": "抄",
+      "pinyin": "chāo",
+      "english": "to make a copy"
+    },
+    {
+      "other": "朝",
+      "pinyin": "cháo",
+      "english": "imperial or royal court"
+    },
+    {
+      "other": "朝代",
+      "pinyin": "cháo dài",
+      "english": "dynasty"
+    },
+    {
+      "other": "炒",
+      "pinyin": "chǎo",
+      "english": "to sauté"
+    },
+    {
+      "other": "吵架",
+      "pinyin": "chǎo jià",
+      "english": "to quarrel"
+    },
+    {
+      "other": "车库",
+      "pinyin": "chē kù",
+      "english": "garage"
+    },
+    {
+      "other": "车厢",
+      "pinyin": "chē xiāng",
+      "english": "carriage"
+    },
+    {
+      "other": "彻底",
+      "pinyin": "chè dǐ",
+      "english": "thorough"
+    },
+    {
+      "other": "沉默",
+      "pinyin": "chén mò",
+      "english": "taciturn"
+    },
+    {
+      "other": "趁",
+      "pinyin": "chèn",
+      "english": "to avail oneself of"
+    },
+    {
+      "other": "称",
+      "pinyin": "chēng",
+      "english": "to weigh"
+    },
+    {
+      "other": "称呼",
+      "pinyin": "chēng hu",
+      "english": "to call"
+    },
+    {
+      "other": "称赞",
+      "pinyin": "chēng zàn",
+      "english": "to praise"
+    },
+    {
+      "other": "乘",
+      "pinyin": "chéng",
+      "english": "to ride"
+    },
+    {
+      "other": "承担",
+      "pinyin": "chéng dān",
+      "english": "to undertake"
+    },
+    {
+      "other": "承认",
+      "pinyin": "chéng rèn",
+      "english": "to admit"
+    },
+    {
+      "other": "承受",
+      "pinyin": "chéng shòu",
+      "english": "to bear"
+    },
+    {
+      "other": "成分",
+      "pinyin": "chéng fèn",
+      "english": "composition"
+    },
+    {
+      "other": "成果",
+      "pinyin": "chéng guǒ",
+      "english": "result"
+    },
+    {
+      "other": "成就",
+      "pinyin": "chéng jiù",
+      "english": "accomplishment"
+    },
+    {
+      "other": "成立",
+      "pinyin": "chéng lì",
+      "english": "to establish"
+    },
+    {
+      "other": "成语",
+      "pinyin": "chéng yǔ",
+      "english": "Chinese set expression"
+    },
+    {
+      "other": "成长",
+      "pinyin": "chéng zhǎng",
+      "english": "to mature"
+    },
+    {
+      "other": "程度",
+      "pinyin": "chéng dù",
+      "english": "degree (level or extent)"
+    },
+    {
+      "other": "程序",
+      "pinyin": "chéng xù",
+      "english": "procedures"
+    },
+    {
+      "other": "诚恳",
+      "pinyin": "chéng kěn",
+      "english": "sincere"
+    },
+    {
+      "other": "吃亏",
+      "pinyin": "chī kuī",
+      "english": "to suffer losses"
+    },
+    {
+      "other": "持续",
+      "pinyin": "chí xù",
+      "english": "to continue"
+    },
+    {
+      "other": "池子",
+      "pinyin": "chí zi",
+      "english": "pond"
+    },
+    {
+      "other": "尺子",
+      "pinyin": "chǐ zi",
+      "english": "rule"
+    },
+    {
+      "other": "翅膀",
+      "pinyin": "chì bǎng",
+      "english": "wing"
+    },
+    {
+      "other": "冲",
+      "pinyin": "chōng",
+      "english": "thoroughfare"
+    },
+    {
+      "other": "充电器",
+      "pinyin": "chōng diàn qì",
+      "english": "battery charger"
+    },
+    {
+      "other": "充分",
+      "pinyin": "chōng fèn",
+      "english": "ample"
+    },
+    {
+      "other": "充满",
+      "pinyin": "chōng mǎn",
+      "english": "full of"
+    },
+    {
+      "other": "重复",
+      "pinyin": "chóng fù",
+      "english": "to repeat"
+    },
+    {
+      "other": "宠物",
+      "pinyin": "chǒng wù",
+      "english": "house pet"
+    },
+    {
+      "other": "抽屉",
+      "pinyin": "chōu ti",
+      "english": "drawer"
+    },
+    {
+      "other": "抽象",
+      "pinyin": "chōu xiàng",
+      "english": "abstract"
+    },
+    {
+      "other": "丑",
+      "pinyin": "chǒu",
+      "english": "shameful"
+    },
+    {
+      "other": "臭",
+      "pinyin": "chòu",
+      "english": "stench"
+    },
+    {
+      "other": "出版",
+      "pinyin": "chū bǎn",
+      "english": "to publish"
+    },
+    {
+      "other": "出口",
+      "pinyin": "chū kǒu",
+      "english": "an exit"
+    },
+    {
+      "other": "出色",
+      "pinyin": "chū sè",
+      "english": "remarkable"
+    },
+    {
+      "other": "出席",
+      "pinyin": "chū xí",
+      "english": "to attend"
+    },
+    {
+      "other": "初级",
+      "pinyin": "chū jí",
+      "english": "junior"
+    },
+    {
+      "other": "除",
+      "pinyin": "chú",
+      "english": "to get rid of"
+    },
+    {
+      "other": "除非",
+      "pinyin": "chú fēi",
+      "english": "only if (..."
+    },
+    {
+      "other": "除夕",
+      "pinyin": "chú xī",
+      "english": "(New Year's) Eve"
+    },
+    {
+      "other": "处理",
+      "pinyin": "chǔ lǐ",
+      "english": "to handle"
+    },
+    {
+      "other": "传播",
+      "pinyin": "chuán bō",
+      "english": "to disseminate"
+    },
+    {
+      "other": "传递",
+      "pinyin": "chuán dì",
+      "english": "to transmit"
+    },
+    {
+      "other": "传染",
+      "pinyin": "chuán rǎn",
+      "english": "to infect"
+    },
+    {
+      "other": "传说",
+      "pinyin": "chuán shuō",
+      "english": "legend"
+    },
+    {
+      "other": "传统",
+      "pinyin": "chuán tǒng",
+      "english": "tradition"
+    },
+    {
+      "other": "窗帘",
+      "pinyin": "chuāng lián",
+      "english": "window curtains"
+    },
+    {
+      "other": "闯",
+      "pinyin": "chuǎng",
+      "english": "to rush"
+    },
+    {
+      "other": "创造",
+      "pinyin": "chuàng zào",
+      "english": "to create"
+    },
+    {
+      "other": "吹",
+      "pinyin": "chuī",
+      "english": "to blow"
+    },
+    {
+      "other": "磁带",
+      "pinyin": "cí dài",
+      "english": "magnetic tape"
+    },
+    {
+      "other": "辞职",
+      "pinyin": "cí zhí",
+      "english": "to resign"
+    },
+    {
+      "other": "此外",
+      "pinyin": "cǐ wài",
+      "english": "besides"
+    },
+    {
+      "other": "刺激",
+      "pinyin": "cì jī",
+      "english": "to provoke"
+    },
+    {
+      "other": "次要",
+      "pinyin": "cì yào",
+      "english": "secondary"
+    },
+    {
+      "other": "匆忙",
+      "pinyin": "cōng máng",
+      "english": "hasty"
+    },
+    {
+      "other": "从此",
+      "pinyin": "cóng cǐ",
+      "english": "from now on"
+    },
+    {
+      "other": "从而",
+      "pinyin": "cóng ér",
+      "english": "thus"
+    },
+    {
+      "other": "从前",
+      "pinyin": "cóng qián",
+      "english": "previously"
+    },
+    {
+      "other": "从事",
+      "pinyin": "cóng shì",
+      "english": "to go for"
+    },
+    {
+      "other": "醋",
+      "pinyin": "cù",
+      "english": "vinegar"
+    },
+    {
+      "other": "促进",
+      "pinyin": "cù jìn",
+      "english": "to promote (an idea or cause)"
+    },
+    {
+      "other": "促使",
+      "pinyin": "cù shǐ",
+      "english": "to induce"
+    },
+    {
+      "other": "催",
+      "pinyin": "cuī",
+      "english": "to urge"
+    },
+    {
+      "other": "存",
+      "pinyin": "cún",
+      "english": "to exist"
+    },
+    {
+      "other": "存在",
+      "pinyin": "cún zài",
+      "english": "to exist"
+    },
+    {
+      "other": "错误",
+      "pinyin": "cuò wù",
+      "english": "error"
+    },
+    {
+      "other": "措施",
+      "pinyin": "cuò shī",
+      "english": "measure"
+    },
+    {
+      "other": "答应",
+      "pinyin": "dā ying",
+      "english": "to promise"
+    },
+    {
+      "other": "达到",
+      "pinyin": "dá dào",
+      "english": "to reach"
+    },
+    {
+      "other": "打工",
+      "pinyin": "dǎ gōng",
+      "english": "to work a temporary or casual job"
+    },
+    {
+      "other": "打交道",
+      "pinyin": "dǎ jiāo dào",
+      "english": "to come into contact with"
+    },
+    {
+      "other": "打喷嚏",
+      "pinyin": "dǎ pēn tì",
+      "english": "to sneeze"
+    },
+    {
+      "other": "打听",
+      "pinyin": "dǎ ting",
+      "english": "to ask about"
+    },
+    {
+      "other": "打招呼",
+      "pinyin": "dǎ zhāo hu",
+      "english": "to greet sb by word or action"
+    },
+    {
+      "other": "大方",
+      "pinyin": "dà fang",
+      "english": "generous"
+    },
+    {
+      "other": "大象",
+      "pinyin": "dà xiàng",
+      "english": "elephant"
+    },
+    {
+      "other": "大型",
+      "pinyin": "dà xíng",
+      "english": "large"
+    },
+    {
+      "other": "呆",
+      "pinyin": "dāi",
+      "english": "foolish"
+    },
+    {
+      "other": "贷款",
+      "pinyin": "dài kuǎn",
+      "english": "a loan"
+    },
+    {
+      "other": "待遇",
+      "pinyin": "dài yù",
+      "english": "treatment"
+    },
+    {
+      "other": "担任",
+      "pinyin": "dān rèn",
+      "english": "to hold a governmental office or post"
+    },
+    {
+      "other": "单纯",
+      "pinyin": "dān chún",
+      "english": "simple"
+    },
+    {
+      "other": "单调",
+      "pinyin": "dān diào",
+      "english": "monotonous"
+    },
+    {
+      "other": "单独",
+      "pinyin": "dān dú",
+      "english": "alone"
+    },
+    {
+      "other": "单位",
+      "pinyin": "dān wèi",
+      "english": "a unit"
+    },
+    {
+      "other": "单元",
+      "pinyin": "dān yuán",
+      "english": "unit"
+    },
+    {
+      "other": "耽误",
+      "pinyin": "dān wu",
+      "english": "to delay"
+    },
+    {
+      "other": "胆小鬼",
+      "pinyin": "dǎn xiǎo guǐ",
+      "english": "coward"
+    },
+    {
+      "other": "淡",
+      "pinyin": "dàn",
+      "english": "insipid"
+    },
+    {
+      "other": "当代",
+      "pinyin": "dāng dài",
+      "english": "the present age"
+    },
+    {
+      "other": "挡",
+      "pinyin": "dǎng",
+      "english": "to resist"
+    },
+    {
+      "other": "岛",
+      "pinyin": "dǎo",
+      "english": "island"
+    },
+    {
+      "other": "倒霉",
+      "pinyin": "dǎo méi",
+      "english": "to have bad luck"
+    },
+    {
+      "other": "导演",
+      "pinyin": "dǎo yǎn",
+      "english": "to direct"
+    },
+    {
+      "other": "导致",
+      "pinyin": "dǎo zhì",
+      "english": "to lead to"
+    },
+    {
+      "other": "倒",
+      "pinyin": "dào",
+      "english": "to place upside down"
+    },
+    {
+      "other": "到达",
+      "pinyin": "dào dá",
+      "english": "to reach"
+    },
+    {
+      "other": "道德",
+      "pinyin": "dào dé",
+      "english": "virtue"
+    },
+    {
+      "other": "道理",
+      "pinyin": "dào li",
+      "english": "reason"
+    },
+    {
+      "other": "登机牌",
+      "pinyin": "dēng jī pái",
+      "english": "boarding pass"
+    },
+    {
+      "other": "登记",
+      "pinyin": "dēng jì",
+      "english": "to register (one's name)"
+    },
+    {
+      "other": "等待",
+      "pinyin": "děng dài",
+      "english": "to wait"
+    },
+    {
+      "other": "等候",
+      "pinyin": "děng hòu",
+      "english": "to wait"
+    },
+    {
+      "other": "等于",
+      "pinyin": "děng yú",
+      "english": "to equal"
+    },
+    {
+      "other": "滴",
+      "pinyin": "dī",
+      "english": "a drop"
+    },
+    {
+      "other": "的确",
+      "pinyin": "dí què",
+      "english": "really"
+    },
+    {
+      "other": "敌人",
+      "pinyin": "dí rén",
+      "english": "enemy"
+    },
+    {
+      "other": "递",
+      "pinyin": "dì",
+      "english": "to hand over"
+    },
+    {
+      "other": "地道",
+      "pinyin": "dì dao",
+      "english": "authentic"
+    },
+    {
+      "other": "地理",
+      "pinyin": "dì lǐ",
+      "english": "geography"
+    },
+    {
+      "other": "地区",
+      "pinyin": "dì qū",
+      "english": "local"
+    },
+    {
+      "other": "地毯",
+      "pinyin": "dì tǎn",
+      "english": "carpet"
+    },
+    {
+      "other": "地位",
+      "pinyin": "dì wèi",
+      "english": "position"
+    },
+    {
+      "other": "地震",
+      "pinyin": "dì zhèn",
+      "english": "earthquake"
+    },
+    {
+      "other": "点头",
+      "pinyin": "diǎn tóu",
+      "english": "to nod"
+    },
+    {
+      "other": "点心",
+      "pinyin": "diǎn xin",
+      "english": "light refreshments"
+    },
+    {
+      "other": "电池",
+      "pinyin": "diàn chí",
+      "english": "battery"
+    },
+    {
+      "other": "电台",
+      "pinyin": "diàn tái",
+      "english": "transmitter-receiver"
+    },
+    {
+      "other": "钓",
+      "pinyin": "diào",
+      "english": "to fish with a hook and bait"
+    },
+    {
+      "other": "丁",
+      "pinyin": "dīng",
+      "english": "fourth of 10 heavenly stems 十天干"
+    },
+    {
+      "other": "顶",
+      "pinyin": "dǐng",
+      "english": "apex"
+    },
+    {
+      "other": "冻",
+      "pinyin": "dòng",
+      "english": "to freeze"
+    },
+    {
+      "other": "洞",
+      "pinyin": "dòng",
+      "english": "cave"
+    },
+    {
+      "other": "动画片",
+      "pinyin": "dòng huà piàn",
+      "english": "animated film"
+    },
+    {
+      "other": "逗",
+      "pinyin": "dòu",
+      "english": "to stay"
+    },
+    {
+      "other": "豆腐",
+      "pinyin": "dòu fu",
+      "english": "tofu"
+    },
+    {
+      "other": "独立",
+      "pinyin": "dú lì",
+      "english": "independent"
+    },
+    {
+      "other": "独特",
+      "pinyin": "dú tè",
+      "english": "unique"
+    },
+    {
+      "other": "度过",
+      "pinyin": "dù guò",
+      "english": "to pass"
+    },
+    {
+      "other": "短信",
+      "pinyin": "duǎn xìn",
+      "english": "text message"
+    },
+    {
+      "other": "堆",
+      "pinyin": "duī",
+      "english": "to pile up"
+    },
+    {
+      "other": "对比",
+      "pinyin": "duì bǐ",
+      "english": "to contrast"
+    },
+    {
+      "other": "对待",
+      "pinyin": "duì dài",
+      "english": "to treat"
+    },
+    {
+      "other": "对方",
+      "pinyin": "duì fāng",
+      "english": "counterpart"
+    },
+    {
+      "other": "对手",
+      "pinyin": "duì shǒu",
+      "english": "opponent"
+    },
+    {
+      "other": "对象",
+      "pinyin": "duì xiàng",
+      "english": "target"
+    },
+    {
+      "other": "对于",
+      "pinyin": "duì yú",
+      "english": "regarding"
+    },
+    {
+      "other": "吨",
+      "pinyin": "dūn",
+      "english": "ton"
+    },
+    {
+      "other": "蹲",
+      "pinyin": "dūn",
+      "english": "to crouch"
+    },
+    {
+      "other": "多亏",
+      "pinyin": "duō kuī",
+      "english": "thanks to"
+    },
+    {
+      "other": "多余",
+      "pinyin": "duō yú",
+      "english": "superfluous"
+    },
+    {
+      "other": "躲藏",
+      "pinyin": "duǒ cáng",
+      "english": "to hide oneself"
+    },
+    {
+      "other": "恶劣",
+      "pinyin": "è liè",
+      "english": "vile"
+    },
+    {
+      "other": "发表",
+      "pinyin": "fā biǎo",
+      "english": "to issue"
+    },
+    {
+      "other": "发愁",
+      "pinyin": "fā chóu",
+      "english": "to worry"
+    },
+    {
+      "other": "发达",
+      "pinyin": "fā dá",
+      "english": "developed (country etc)"
+    },
+    {
+      "other": "发抖",
+      "pinyin": "fā dǒu",
+      "english": "to tremble"
+    },
+    {
+      "other": "发挥",
+      "pinyin": "fā huī",
+      "english": "to display"
+    },
+    {
+      "other": "发明",
+      "pinyin": "fā míng",
+      "english": "to invent"
+    },
+    {
+      "other": "发票",
+      "pinyin": "fā piào",
+      "english": "invoice"
+    },
+    {
+      "other": "发言",
+      "pinyin": "fā yán",
+      "english": "to make a speech"
+    },
+    {
+      "other": "罚款",
+      "pinyin": "fá kuǎn",
+      "english": "(impose a) fine"
+    },
+    {
+      "other": "法院",
+      "pinyin": "fǎ yuàn",
+      "english": "court of law"
+    },
+    {
+      "other": "翻",
+      "pinyin": "fān",
+      "english": "to turn over"
+    },
+    {
+      "other": "繁荣",
+      "pinyin": "fán róng",
+      "english": "prosperous"
+    },
+    {
+      "other": "凡是",
+      "pinyin": "fán shì",
+      "english": "each and every"
+    },
+    {
+      "other": "反而",
+      "pinyin": "fǎn ér",
+      "english": "instead"
+    },
+    {
+      "other": "反复",
+      "pinyin": "fǎn fù",
+      "english": "repeatedly"
+    },
+    {
+      "other": "反应",
+      "pinyin": "fǎn yìng",
+      "english": "to react"
+    },
+    {
+      "other": "反正",
+      "pinyin": "fǎn zhèng",
+      "english": "anyway"
+    },
+    {
+      "other": "方",
+      "pinyin": "fāng",
+      "english": "square"
+    },
+    {
+      "other": "方案",
+      "pinyin": "fāng àn",
+      "english": "plan"
+    },
+    {
+      "other": "方式",
+      "pinyin": "fāng shì",
+      "english": "way (of life)"
+    },
+    {
+      "other": "妨碍",
+      "pinyin": "fáng ài",
+      "english": "to hinder"
+    },
+    {
+      "other": "房东",
+      "pinyin": "fáng dōng",
+      "english": "landlord"
+    },
+    {
+      "other": "仿佛",
+      "pinyin": "fǎng fú",
+      "english": "to seem"
+    },
+    {
+      "other": "放松",
+      "pinyin": "fàng sōng",
+      "english": "to loosen"
+    },
+    {
+      "other": "非",
+      "pinyin": "fēi",
+      "english": "to not be"
+    },
+    {
+      "other": "肥皂",
+      "pinyin": "féi zào",
+      "english": "soap"
+    },
+    {
+      "other": "肺",
+      "pinyin": "fèi",
+      "english": "lung"
+    },
+    {
+      "other": "废话",
+      "pinyin": "fèi huà",
+      "english": "nonsense"
+    },
+    {
+      "other": "费用",
+      "pinyin": "fèi yòng",
+      "english": "cost"
+    },
+    {
+      "other": "分别",
+      "pinyin": "fēn bié",
+      "english": "to part or leave each other"
+    },
+    {
+      "other": "分布",
+      "pinyin": "fēn bù",
+      "english": "distributed"
+    },
+    {
+      "other": "分配",
+      "pinyin": "fēn pèi",
+      "english": "to distribute"
+    },
+    {
+      "other": "分析",
+      "pinyin": "fēn xī",
+      "english": "to analyze"
+    },
+    {
+      "other": "纷纷",
+      "pinyin": "fēn fēn",
+      "english": "one after another"
+    },
+    {
+      "other": "奋斗",
+      "pinyin": "fèn dòu",
+      "english": "to strive"
+    },
+    {
+      "other": "愤怒",
+      "pinyin": "fèn nù",
+      "english": "angry"
+    },
+    {
+      "other": "风格",
+      "pinyin": "fēng gé",
+      "english": "style"
+    },
+    {
+      "other": "风俗",
+      "pinyin": "fēng sú",
+      "english": "social custom"
+    },
+    {
+      "other": "风险",
+      "pinyin": "fēng xiǎn",
+      "english": "risk"
+    },
+    {
+      "other": "疯狂",
+      "pinyin": "fēng kuáng",
+      "english": "madness"
+    },
+    {
+      "other": "讽刺",
+      "pinyin": "fěng cì",
+      "english": "to satirize"
+    },
+    {
+      "other": "否定",
+      "pinyin": "fǒu dìng",
+      "english": "to negate"
+    },
+    {
+      "other": "否认",
+      "pinyin": "fǒu rèn",
+      "english": "to declare to be untrue"
+    },
+    {
+      "other": "扶",
+      "pinyin": "fú",
+      "english": "to support with the hand"
+    },
+    {
+      "other": "幅",
+      "pinyin": "fú",
+      "english": "width"
+    },
+    {
+      "other": "服从",
+      "pinyin": "fú cóng",
+      "english": "to obey (an order)"
+    },
+    {
+      "other": "服装",
+      "pinyin": "fú zhuāng",
+      "english": "dress"
+    },
+    {
+      "other": "辅导",
+      "pinyin": "fǔ dǎo",
+      "english": "to coach"
+    },
+    {
+      "other": "复制",
+      "pinyin": "fù zhì",
+      "english": "to duplicate"
+    },
+    {
+      "other": "付款",
+      "pinyin": "fù kuǎn",
+      "english": "to pay a sum of money"
+    },
+    {
+      "other": "妇女",
+      "pinyin": "fù nǚ",
+      "english": "woman"
+    },
+    {
+      "other": "改革",
+      "pinyin": "gǎi gé",
+      "english": "reform"
+    },
+    {
+      "other": "改进",
+      "pinyin": "gǎi jìn",
+      "english": "to improve"
+    },
+    {
+      "other": "改善",
+      "pinyin": "gǎi shàn",
+      "english": "to make better"
+    },
+    {
+      "other": "改正",
+      "pinyin": "gǎi zhèng",
+      "english": "to correct"
+    },
+    {
+      "other": "盖",
+      "pinyin": "gài",
+      "english": "lid"
+    },
+    {
+      "other": "概括",
+      "pinyin": "gài kuò",
+      "english": "to summarize"
+    },
+    {
+      "other": "概念",
+      "pinyin": "gài niàn",
+      "english": "concept"
+    },
+    {
+      "other": "干脆",
+      "pinyin": "gān cuì",
+      "english": "straightforward"
+    },
+    {
+      "other": "感激",
+      "pinyin": "gǎn jī",
+      "english": "to be grateful"
+    },
+    {
+      "other": "感受",
+      "pinyin": "gǎn shòu",
+      "english": "to sense"
+    },
+    {
+      "other": "感想",
+      "pinyin": "gǎn xiǎng",
+      "english": "impressions"
+    },
+    {
+      "other": "赶紧",
+      "pinyin": "gǎn jǐn",
+      "english": "hurriedly"
+    },
+    {
+      "other": "赶快",
+      "pinyin": "gǎn kuài",
+      "english": "at once"
+    },
+    {
+      "other": "干活儿",
+      "pinyin": "gàn huó r",
+      "english": "to work"
+    },
+    {
+      "other": "钢铁",
+      "pinyin": "gāng tiě",
+      "english": "steel"
+    },
+    {
+      "other": "高档",
+      "pinyin": "gāo dàng",
+      "english": "superior quality"
+    },
+    {
+      "other": "高速",
+      "pinyin": "gāo sù",
+      "english": "high speed"
+    },
+    {
+      "other": "搞",
+      "pinyin": "gǎo",
+      "english": "to do"
+    },
+    {
+      "other": "告别",
+      "pinyin": "gào bié",
+      "english": "to leave"
+    },
+    {
+      "other": "胳膊",
+      "pinyin": "gē bo",
+      "english": "arm"
+    },
+    {
+      "other": "鸽子",
+      "pinyin": "gē zi",
+      "english": "pigeon"
+    },
+    {
+      "other": "隔壁",
+      "pinyin": "gé bì",
+      "english": "next door"
+    },
+    {
+      "other": "格外",
+      "pinyin": "gé wài",
+      "english": "especially"
+    },
+    {
+      "other": "革命",
+      "pinyin": "gé mìng",
+      "english": "revolution"
+    },
+    {
+      "other": "个别",
+      "pinyin": "gè bié",
+      "english": "individual"
+    },
+    {
+      "other": "个人",
+      "pinyin": "gè rén",
+      "english": "individual"
+    },
+    {
+      "other": "个性",
+      "pinyin": "gè xìng",
+      "english": "individuality"
+    },
+    {
+      "other": "各自",
+      "pinyin": "gè zì",
+      "english": "each"
+    },
+    {
+      "other": "根",
+      "pinyin": "gēn",
+      "english": "root"
+    },
+    {
+      "other": "根本",
+      "pinyin": "gēn běn",
+      "english": "fundamental"
+    },
+    {
+      "other": "更加",
+      "pinyin": "gèng jiā",
+      "english": "more (than sth else)"
+    },
+    {
+      "other": "公布",
+      "pinyin": "gōng bù",
+      "english": "to announce"
+    },
+    {
+      "other": "公开",
+      "pinyin": "gōng kāi",
+      "english": "public"
+    },
+    {
+      "other": "公平",
+      "pinyin": "gōng píng",
+      "english": "fair"
+    },
+    {
+      "other": "公寓",
+      "pinyin": "gōng yù",
+      "english": "apartment building"
+    },
+    {
+      "other": "公元",
+      "pinyin": "gōng yuán",
+      "english": "CE (Common Era)"
+    },
+    {
+      "other": "公主",
+      "pinyin": "gōng zhǔ",
+      "english": "princess"
+    },
+    {
+      "other": "工厂",
+      "pinyin": "gōng chǎng",
+      "english": "factory"
+    },
+    {
+      "other": "工程师",
+      "pinyin": "gōng chéng shī",
+      "english": "engineer"
+    },
+    {
+      "other": "工人",
+      "pinyin": "gōng rén",
+      "english": "worker"
+    },
+    {
+      "other": "工业",
+      "pinyin": "gōng yè",
+      "english": "industry"
+    },
+    {
+      "other": "功夫",
+      "pinyin": "gōng fu",
+      "english": "skill"
+    },
+    {
+      "other": "功能",
+      "pinyin": "gōng néng",
+      "english": "function"
+    },
+    {
+      "other": "贡献",
+      "pinyin": "gòng xiàn",
+      "english": "to contribute"
+    },
+    {
+      "other": "沟通",
+      "pinyin": "gōu tōng",
+      "english": "to join"
+    },
+    {
+      "other": "构成",
+      "pinyin": "gòu chéng",
+      "english": "to constitute"
+    },
+    {
+      "other": "姑姑",
+      "pinyin": "gū gu",
+      "english": "paternal aunt"
+    },
+    {
+      "other": "姑娘",
+      "pinyin": "gū niang",
+      "english": "girl"
+    },
+    {
+      "other": "古代",
+      "pinyin": "gǔ dài",
+      "english": "ancient times"
+    },
+    {
+      "other": "古典",
+      "pinyin": "gǔ diǎn",
+      "english": "classical"
+    },
+    {
+      "other": "古老",
+      "pinyin": "gǔ lǎo",
+      "english": "ancient"
+    },
+    {
+      "other": "股票",
+      "pinyin": "gǔ piào",
+      "english": "share"
+    },
+    {
+      "other": "鼓舞",
+      "pinyin": "gǔ wǔ",
+      "english": "heartening (news)"
+    },
+    {
+      "other": "骨头",
+      "pinyin": "gǔ tou",
+      "english": "bone"
+    },
+    {
+      "other": "固定",
+      "pinyin": "gù dìng",
+      "english": "fixed"
+    },
+    {
+      "other": "固体",
+      "pinyin": "gù tǐ",
+      "english": "solid"
+    },
+    {
+      "other": "雇佣",
+      "pinyin": "gù yōng",
+      "english": "to employ"
+    },
+    {
+      "other": "挂号",
+      "pinyin": "guà hào",
+      "english": "to register (a letter etc)"
+    },
+    {
+      "other": "乖",
+      "pinyin": "guāi",
+      "english": "(of a child) obedient"
+    },
+    {
+      "other": "拐弯",
+      "pinyin": "guǎi wān",
+      "english": "to go round a curve"
+    },
+    {
+      "other": "怪不得",
+      "pinyin": "guài bu de",
+      "english": "no wonder!"
+    },
+    {
+      "other": "关闭",
+      "pinyin": "guān bì",
+      "english": "to close"
+    },
+    {
+      "other": "关怀",
+      "pinyin": "guān huái",
+      "english": "care"
+    },
+    {
+      "other": "官",
+      "pinyin": "guān",
+      "english": "official"
+    },
+    {
+      "other": "观察",
+      "pinyin": "guān chá",
+      "english": "to observe"
+    },
+    {
+      "other": "观点",
+      "pinyin": "guān diǎn",
+      "english": "point of view"
+    },
+    {
+      "other": "观念",
+      "pinyin": "guān niàn",
+      "english": "notion"
+    },
+    {
+      "other": "管子",
+      "pinyin": "guǎn zi",
+      "english": "tube"
+    },
+    {
+      "other": "罐头",
+      "pinyin": "guàn tou",
+      "english": "tin"
+    },
+    {
+      "other": "冠军",
+      "pinyin": "guàn jūn",
+      "english": "champion"
+    },
+    {
+      "other": "光滑",
+      "pinyin": "guāng hua",
+      "english": "glossy"
+    },
+    {
+      "other": "光临",
+      "pinyin": "guāng lín",
+      "english": "(honorific) Welcome!"
+    },
+    {
+      "other": "光明",
+      "pinyin": "guāng míng",
+      "english": "light"
+    },
+    {
+      "other": "光盘",
+      "pinyin": "guāng pán",
+      "english": "compact disc"
+    },
+    {
+      "other": "光荣",
+      "pinyin": "guāng róng",
+      "english": "honor and glory"
+    },
+    {
+      "other": "广场",
+      "pinyin": "guǎng chǎng",
+      "english": "public square"
+    },
+    {
+      "other": "广大",
+      "pinyin": "guǎng dà",
+      "english": "(of an area) vast or extensive"
+    },
+    {
+      "other": "广泛",
+      "pinyin": "guǎng fàn",
+      "english": "extensive"
+    },
+    {
+      "other": "规矩",
+      "pinyin": "guī ju",
+      "english": "lit. compass and set square"
+    },
+    {
+      "other": "规律",
+      "pinyin": "guī lǜ",
+      "english": "rule (e.g. of science)"
+    },
+    {
+      "other": "规模",
+      "pinyin": "guī mó",
+      "english": "scale"
+    },
+    {
+      "other": "规则",
+      "pinyin": "guī zé",
+      "english": "rule"
+    },
+    {
+      "other": "柜台",
+      "pinyin": "guì tái",
+      "english": "sales counter"
+    },
+    {
+      "other": "滚",
+      "pinyin": "gǔn",
+      "english": "to boil"
+    },
+    {
+      "other": "锅",
+      "pinyin": "guō",
+      "english": "pot"
+    },
+    {
+      "other": "国籍",
+      "pinyin": "guó jí",
+      "english": "nationality"
+    },
+    {
+      "other": "国庆节",
+      "pinyin": "Guó qìng jié",
+      "english": "PRC National Day (October 1st)"
+    },
+    {
+      "other": "果实",
+      "pinyin": "guǒ shí",
+      "english": "fruit"
+    },
+    {
+      "other": "过分",
+      "pinyin": "guò fèn",
+      "english": "excessive"
+    },
+    {
+      "other": "过敏",
+      "pinyin": "guò mǐn",
+      "english": "to be allergic"
+    },
+    {
+      "other": "过期",
+      "pinyin": "guò qī",
+      "english": "to be overdue"
+    },
+    {
+      "other": "哈",
+      "pinyin": "hā",
+      "english": "laughter"
+    },
+    {
+      "other": "海关",
+      "pinyin": "hǎi guān",
+      "english": "customs (i.e. border crossing inspection)"
+    },
+    {
+      "other": "海鲜",
+      "pinyin": "hǎi xiān",
+      "english": "seafood"
+    },
+    {
+      "other": "喊",
+      "pinyin": "hǎn",
+      "english": "to yell"
+    },
+    {
+      "other": "行业",
+      "pinyin": "háng yè",
+      "english": "industry"
+    },
+    {
+      "other": "豪华",
+      "pinyin": "háo huá",
+      "english": "luxurious"
+    },
+    {
+      "other": "好奇",
+      "pinyin": "hào qí",
+      "english": "inquisitive"
+    },
+    {
+      "other": "和平",
+      "pinyin": "hé píng",
+      "english": "peace"
+    },
+    {
+      "other": "何必",
+      "pinyin": "hé bì",
+      "english": "there is no need"
+    },
+    {
+      "other": "何况",
+      "pinyin": "hé kuàng",
+      "english": "let alone"
+    },
+    {
+      "other": "合法",
+      "pinyin": "hé fǎ",
+      "english": "lawful"
+    },
+    {
+      "other": "合理",
+      "pinyin": "hé lǐ",
+      "english": "rational"
+    },
+    {
+      "other": "合同",
+      "pinyin": "hé tong",
+      "english": "(business) contract"
+    },
+    {
+      "other": "合影",
+      "pinyin": "hé yǐng",
+      "english": "joint photo"
+    },
+    {
+      "other": "合作",
+      "pinyin": "hé zuò",
+      "english": "to cooperate"
+    },
+    {
+      "other": "核心",
+      "pinyin": "hé xīn",
+      "english": "core"
+    },
+    {
+      "other": "恨",
+      "pinyin": "hèn",
+      "english": "to hate"
+    },
+    {
+      "other": "横",
+      "pinyin": "héng",
+      "english": "horizontal"
+    },
+    {
+      "other": "后果",
+      "pinyin": "hòu guǒ",
+      "english": "consequences"
+    },
+    {
+      "other": "忽视",
+      "pinyin": "hū shì",
+      "english": "to neglect"
+    },
+    {
+      "other": "呼吸",
+      "pinyin": "hū xī",
+      "english": "to breathe"
+    },
+    {
+      "other": "壶",
+      "pinyin": "hú",
+      "english": "pot"
+    },
+    {
+      "other": "蝴蝶",
+      "pinyin": "hú dié",
+      "english": "butterfly"
+    },
+    {
+      "other": "胡说",
+      "pinyin": "hú shuō",
+      "english": "to talk nonsense"
+    },
+    {
+      "other": "胡同",
+      "pinyin": "hú tòng",
+      "english": "variant of 胡同[hú tòng]"
+    },
+    {
+      "other": "胡须",
+      "pinyin": "hú xū",
+      "english": "beard"
+    },
+    {
+      "other": "糊涂",
+      "pinyin": "hú tu",
+      "english": "muddled"
+    },
+    {
+      "other": "花生",
+      "pinyin": "huā shēng",
+      "english": "peanut"
+    },
+    {
+      "other": "滑冰",
+      "pinyin": "huá bīng",
+      "english": "to skate"
+    },
+    {
+      "other": "划船",
+      "pinyin": "huá chuán",
+      "english": "to row a boat"
+    },
+    {
+      "other": "华裔",
+      "pinyin": "Huá yì",
+      "english": "ethnic Chinese"
+    },
+    {
+      "other": "化学",
+      "pinyin": "huà xué",
+      "english": "chemistry"
+    },
+    {
+      "other": "话题",
+      "pinyin": "huà tí",
+      "english": "subject (of a talk or conversation)"
+    },
+    {
+      "other": "怀念",
+      "pinyin": "huái niàn",
+      "english": "to cherish the memory of"
+    },
+    {
+      "other": "缓解",
+      "pinyin": "huǎn jiě",
+      "english": "to blunt"
+    },
+    {
+      "other": "幻想",
+      "pinyin": "huàn xiǎng",
+      "english": "delusion"
+    },
+    {
+      "other": "慌张",
+      "pinyin": "huāng zhāng",
+      "english": "confused"
+    },
+    {
+      "other": "黄瓜",
+      "pinyin": "huáng guā",
+      "english": "cucumber"
+    },
+    {
+      "other": "黄金",
+      "pinyin": "huáng jīn",
+      "english": "gold"
+    },
+    {
+      "other": "皇帝",
+      "pinyin": "huáng dì",
+      "english": "emperor"
+    },
+    {
+      "other": "皇后",
+      "pinyin": "huáng hòu",
+      "english": "empress"
+    },
+    {
+      "other": "灰",
+      "pinyin": "huī",
+      "english": "ash"
+    },
+    {
+      "other": "灰尘",
+      "pinyin": "huī chén",
+      "english": "dust"
+    },
+    {
+      "other": "灰心",
+      "pinyin": "huī xīn",
+      "english": "to lose heart"
+    },
+    {
+      "other": "挥",
+      "pinyin": "huī",
+      "english": "to wave"
+    },
+    {
+      "other": "恢复",
+      "pinyin": "huī fù",
+      "english": "to reinstate"
+    },
+    {
+      "other": "汇率",
+      "pinyin": "huì lǜ",
+      "english": "exchange rate"
+    },
+    {
+      "other": "婚礼",
+      "pinyin": "hūn lǐ",
+      "english": "wedding ceremony"
+    },
+    {
+      "other": "婚姻",
+      "pinyin": "hūn yīn",
+      "english": "matrimony"
+    },
+    {
+      "other": "活跃",
+      "pinyin": "huó yuè",
+      "english": "active"
+    },
+    {
+      "other": "火柴",
+      "pinyin": "huǒ chái",
+      "english": "match (for lighting fire)"
+    },
+    {
+      "other": "伙伴",
+      "pinyin": "huǒ bàn",
+      "english": "partner"
+    },
+    {
+      "other": "基本",
+      "pinyin": "jī běn",
+      "english": "basic"
+    },
+    {
+      "other": "机器",
+      "pinyin": "jī qì",
+      "english": "machine"
+    },
+    {
+      "other": "激烈",
+      "pinyin": "jī liè",
+      "english": "intense"
+    },
+    {
+      "other": "肌肉",
+      "pinyin": "jī ròu",
+      "english": "muscle"
+    },
+    {
+      "other": "及格",
+      "pinyin": "jí gé",
+      "english": "to pass a test"
+    },
+    {
+      "other": "急忙",
+      "pinyin": "jí máng",
+      "english": "hastily"
+    },
+    {
+      "other": "集体",
+      "pinyin": "jí tǐ",
+      "english": "collective"
+    },
+    {
+      "other": "集中",
+      "pinyin": "jí zhōng",
+      "english": "to concentrate"
+    },
+    {
+      "other": "记录",
+      "pinyin": "jì lù",
+      "english": "to record"
+    },
+    {
+      "other": "记忆",
+      "pinyin": "jì yì",
+      "english": "to remember"
+    },
+    {
+      "other": "计算",
+      "pinyin": "jì suàn",
+      "english": "to count"
+    },
+    {
+      "other": "寂寞",
+      "pinyin": "jì mò",
+      "english": "lonely"
+    },
+    {
+      "other": "系领带",
+      "pinyin": "jì lǐng dài",
+      "english": "to tie one's necktie"
+    },
+    {
+      "other": "纪录",
+      "pinyin": "jì lù",
+      "english": "record"
+    },
+    {
+      "other": "纪律",
+      "pinyin": "jì lǜ",
+      "english": "discipline"
+    },
+    {
+      "other": "纪念",
+      "pinyin": "jì niàn",
+      "english": "to commemorate"
+    },
+    {
+      "other": "家庭",
+      "pinyin": "jiā tíng",
+      "english": "family"
+    },
+    {
+      "other": "家务",
+      "pinyin": "jiā wù",
+      "english": "household duties"
+    },
+    {
+      "other": "家乡",
+      "pinyin": "jiā xiāng",
+      "english": "hometown"
+    },
+    {
+      "other": "嘉宾",
+      "pinyin": "jiā bīn",
+      "english": "esteemed guest"
+    },
+    {
+      "other": "夹子",
+      "pinyin": "jiā zi",
+      "english": "clip"
+    },
+    {
+      "other": "甲",
+      "pinyin": "jiǎ",
+      "english": "first of the ten heavenly stems 十天干[shí tiān gān]"
+    },
+    {
+      "other": "假如",
+      "pinyin": "jiǎ rú",
+      "english": "if"
+    },
+    {
+      "other": "假装",
+      "pinyin": "jiǎ zhuāng",
+      "english": "to feign"
+    },
+    {
+      "other": "嫁",
+      "pinyin": "jià",
+      "english": "(of a woman) to marry"
+    },
+    {
+      "other": "价值",
+      "pinyin": "jià zhí",
+      "english": "value"
+    },
+    {
+      "other": "驾驶",
+      "pinyin": "jià shǐ",
+      "english": "to pilot (ship"
+    },
+    {
+      "other": "煎",
+      "pinyin": "jiān",
+      "english": "to pan fry"
+    },
+    {
+      "other": "肩膀",
+      "pinyin": "jiān bǎng",
+      "english": "shoulder"
+    },
+    {
+      "other": "坚决",
+      "pinyin": "jiān jué",
+      "english": "firm"
+    },
+    {
+      "other": "坚强",
+      "pinyin": "jiān qiáng",
+      "english": "staunch"
+    },
+    {
+      "other": "尖锐",
+      "pinyin": "jiān ruì",
+      "english": "sharp"
+    },
+    {
+      "other": "艰巨",
+      "pinyin": "jiān jù",
+      "english": "arduous"
+    },
+    {
+      "other": "艰苦",
+      "pinyin": "jiān kǔ",
+      "english": "difficult"
+    },
+    {
+      "other": "捡",
+      "pinyin": "jiǎn",
+      "english": "to pick up"
+    },
+    {
+      "other": "剪刀",
+      "pinyin": "jiǎn dāo",
+      "english": "scissors"
+    },
+    {
+      "other": "简历",
+      "pinyin": "jiǎn lì",
+      "english": "Curriculum Vitae (CV)"
+    },
+    {
+      "other": "简直",
+      "pinyin": "jiǎn zhí",
+      "english": "simply"
+    },
+    {
+      "other": "健身房",
+      "pinyin": "jiàn shēn fáng",
+      "english": "gym"
+    },
+    {
+      "other": "建立",
+      "pinyin": "jiàn lì",
+      "english": "to establish"
+    },
+    {
+      "other": "建设",
+      "pinyin": "jiàn shè",
+      "english": "to build"
+    },
+    {
+      "other": "建议",
+      "pinyin": "jiàn yì",
+      "english": "to propose"
+    },
+    {
+      "other": "建筑",
+      "pinyin": "jiàn zhù",
+      "english": "to construct"
+    },
+    {
+      "other": "键盘",
+      "pinyin": "jiàn pán",
+      "english": "keyboard"
+    },
+    {
+      "other": "讲究",
+      "pinyin": "jiǎng jiu",
+      "english": "to pay particular attention to"
+    },
+    {
+      "other": "讲座",
+      "pinyin": "jiǎng zuò",
+      "english": "a course of lectures"
+    },
+    {
+      "other": "降落",
+      "pinyin": "jiàng luò",
+      "english": "to descend"
+    },
+    {
+      "other": "酱油",
+      "pinyin": "jiàng yóu",
+      "english": "soy sauce"
+    },
+    {
+      "other": "浇",
+      "pinyin": "jiāo",
+      "english": "to pour liquid"
+    },
+    {
+      "other": "交换",
+      "pinyin": "jiāo huàn",
+      "english": "to exchange"
+    },
+    {
+      "other": "交际",
+      "pinyin": "jiāo jì",
+      "english": "communication"
+    },
+    {
+      "other": "郊区",
+      "pinyin": "jiāo qū",
+      "english": "suburban district"
+    },
+    {
+      "other": "胶水",
+      "pinyin": "jiāo shuǐ",
+      "english": "glue"
+    },
+    {
+      "other": "角度",
+      "pinyin": "jiǎo dù",
+      "english": "angle"
+    },
+    {
+      "other": "狡猾",
+      "pinyin": "jiǎo huá",
+      "english": "crafty"
+    },
+    {
+      "other": "教材",
+      "pinyin": "jiào cái",
+      "english": "teaching material"
+    },
+    {
+      "other": "教练",
+      "pinyin": "jiào liàn",
+      "english": "instructor"
+    },
+    {
+      "other": "教训",
+      "pinyin": "jiào xun",
+      "english": "lesson"
+    },
+    {
+      "other": "接触",
+      "pinyin": "jiē chù",
+      "english": "to touch"
+    },
+    {
+      "other": "接待",
+      "pinyin": "jiē dài",
+      "english": "to receive (a visitor)"
+    },
+    {
+      "other": "接近",
+      "pinyin": "jiē jìn",
+      "english": "to approach"
+    },
+    {
+      "other": "接着",
+      "pinyin": "jiē zhe",
+      "english": "to catch and hold on"
+    },
+    {
+      "other": "阶段",
+      "pinyin": "jiē duàn",
+      "english": "stage"
+    },
+    {
+      "other": "结实",
+      "pinyin": "jiē shi",
+      "english": "rugged"
+    },
+    {
+      "other": "节",
+      "pinyin": "jié",
+      "english": "festival"
+    },
+    {
+      "other": "节省",
+      "pinyin": "jié shěng",
+      "english": "saving"
+    },
+    {
+      "other": "结构",
+      "pinyin": "jié gòu",
+      "english": "structure"
+    },
+    {
+      "other": "结合",
+      "pinyin": "jié hé",
+      "english": "to combine"
+    },
+    {
+      "other": "结论",
+      "pinyin": "jié lùn",
+      "english": "conclusion"
+    },
+    {
+      "other": "结账",
+      "pinyin": "jié zhàng",
+      "english": "to pay the bill"
+    },
+    {
+      "other": "解放",
+      "pinyin": "jiě fàng",
+      "english": "to liberate"
+    },
+    {
+      "other": "解说员",
+      "pinyin": "jiě shuō yuán",
+      "english": "commentator"
+    },
+    {
+      "other": "届",
+      "pinyin": "jiè",
+      "english": "to arrive at (place or time)"
+    },
+    {
+      "other": "借口",
+      "pinyin": "jiè kǒu",
+      "english": "to use as an excuse"
+    },
+    {
+      "other": "戒烟",
+      "pinyin": "jiè yān",
+      "english": "to give up smoking"
+    },
+    {
+      "other": "戒指",
+      "pinyin": "jiè zhi",
+      "english": "(finger) ring"
+    },
+    {
+      "other": "金属",
+      "pinyin": "jīn shǔ",
+      "english": "metal"
+    },
+    {
+      "other": "紧",
+      "pinyin": "jǐn",
+      "english": "tight"
+    },
+    {
+      "other": "紧急",
+      "pinyin": "jǐn jí",
+      "english": "urgent"
+    },
+    {
+      "other": "尽量",
+      "pinyin": "jǐn liàng",
+      "english": "as much as possible"
+    },
+    {
+      "other": "谨慎",
+      "pinyin": "jǐn shèn",
+      "english": "cautious"
+    },
+    {
+      "other": "进步",
+      "pinyin": "jìn bù",
+      "english": "progress"
+    },
+    {
+      "other": "进口",
+      "pinyin": "jìn kǒu",
+      "english": "to import"
+    },
+    {
+      "other": "近代",
+      "pinyin": "jìn dài",
+      "english": "modern times"
+    },
+    {
+      "other": "尽力",
+      "pinyin": "jìn lì",
+      "english": "to strive one's hardest"
+    },
+    {
+      "other": "精力",
+      "pinyin": "jīng lì",
+      "english": "energy"
+    },
+    {
+      "other": "经典",
+      "pinyin": "jīng diǎn",
+      "english": "the classics"
+    },
+    {
+      "other": "经营",
+      "pinyin": "jīng yíng",
+      "english": "to engage in (business etc)"
+    },
+    {
+      "other": "景色",
+      "pinyin": "jǐng sè",
+      "english": "scenery"
+    },
+    {
+      "other": "敬爱",
+      "pinyin": "jìng ài",
+      "english": "respect and love"
+    },
+    {
+      "other": "酒吧",
+      "pinyin": "jiǔ bā",
+      "english": "bar"
+    },
+    {
+      "other": "救",
+      "pinyin": "jiù",
+      "english": "to save"
+    },
+    {
+      "other": "救护车",
+      "pinyin": "jiù hù chē",
+      "english": "ambulance"
+    },
+    {
+      "other": "舅舅",
+      "pinyin": "jiù jiu",
+      "english": "mother's brother"
+    },
+    {
+      "other": "居然",
+      "pinyin": "jū rán",
+      "english": "unexpectedly"
+    },
+    {
+      "other": "桔子",
+      "pinyin": "jú zi",
+      "english": "tangerine"
+    },
+    {
+      "other": "举",
+      "pinyin": "jǔ",
+      "english": "to lift"
+    },
+    {
+      "other": "具备",
+      "pinyin": "jù bèi",
+      "english": "to possess"
+    },
+    {
+      "other": "具体",
+      "pinyin": "jù tǐ",
+      "english": "concrete"
+    },
+    {
+      "other": "巨大",
+      "pinyin": "jù dà",
+      "english": "huge"
+    },
+    {
+      "other": "聚会",
+      "pinyin": "jù huì",
+      "english": "party"
+    },
+    {
+      "other": "俱乐部",
+      "pinyin": "jù lè bù",
+      "english": "club (i.e. a group or organization) (loanword)"
+    },
+    {
+      "other": "据说",
+      "pinyin": "jù shuō",
+      "english": "it is said that"
+    },
+    {
+      "other": "捐",
+      "pinyin": "juān",
+      "english": "to contribute"
+    },
+    {
+      "other": "卷",
+      "pinyin": "juǎn",
+      "english": "to roll (up)"
+    },
+    {
+      "other": "决赛",
+      "pinyin": "jué sài",
+      "english": "finals (of a competition)"
+    },
+    {
+      "other": "决心",
+      "pinyin": "jué xīn",
+      "english": "determination"
+    },
+    {
+      "other": "绝对",
+      "pinyin": "jué duì",
+      "english": "absolute"
+    },
+    {
+      "other": "角色",
+      "pinyin": "jué sè",
+      "english": "role"
+    },
+    {
+      "other": "军事",
+      "pinyin": "jūn shì",
+      "english": "military affairs"
+    },
+    {
+      "other": "均匀",
+      "pinyin": "jūn yún",
+      "english": "even"
+    },
+    {
+      "other": "卡车",
+      "pinyin": "kǎ chē",
+      "english": "truck"
+    },
+    {
+      "other": "开发",
+      "pinyin": "kāi fā",
+      "english": "to exploit (a resource)"
+    },
+    {
+      "other": "开放",
+      "pinyin": "kāi fàng",
+      "english": "to bloom"
+    },
+    {
+      "other": "开幕式",
+      "pinyin": "kāi mù shì",
+      "english": "opening ceremony"
+    },
+    {
+      "other": "开心",
+      "pinyin": "kāi xīn",
+      "english": "to feel happy"
+    },
+    {
+      "other": "砍",
+      "pinyin": "kǎn",
+      "english": "to chop"
+    },
+    {
+      "other": "看不起",
+      "pinyin": "kàn bu qǐ",
+      "english": "to look down upon"
+    },
+    {
+      "other": "看来",
+      "pinyin": "kàn lai",
+      "english": "apparently"
+    },
+    {
+      "other": "抗议",
+      "pinyin": "kàng yì",
+      "english": "to protest"
+    },
+    {
+      "other": "烤鸭",
+      "pinyin": "kǎo yā",
+      "english": "roast duck"
+    },
+    {
+      "other": "颗",
+      "pinyin": "kē",
+      "english": "classifier for small spheres"
+    },
+    {
+      "other": "可见",
+      "pinyin": "kě jiàn",
+      "english": "it can clearly be seen (that this is the case)"
+    },
+    {
+      "other": "可靠",
+      "pinyin": "kě kào",
+      "english": "reliable"
+    },
+    {
+      "other": "可怕",
+      "pinyin": "kě pà",
+      "english": "awful"
+    },
+    {
+      "other": "刻苦",
+      "pinyin": "kè kǔ",
+      "english": "hardworking"
+    },
+    {
+      "other": "课程",
+      "pinyin": "kè chéng",
+      "english": "course"
+    },
+    {
+      "other": "克",
+      "pinyin": "kè",
+      "english": "variant of 克[kè]"
+    },
+    {
+      "other": "克服",
+      "pinyin": "kè fú",
+      "english": "(try to) overcome (hardships etc)"
+    },
+    {
+      "other": "客观",
+      "pinyin": "kè guān",
+      "english": "objective"
+    },
+    {
+      "other": "客厅",
+      "pinyin": "kè tīng",
+      "english": "drawing room (room for arriving guests)"
+    },
+    {
+      "other": "空间",
+      "pinyin": "kōng jiān",
+      "english": "space"
+    },
+    {
+      "other": "恐怖",
+      "pinyin": "kǒng bù",
+      "english": "terrible"
+    },
+    {
+      "other": "空闲",
+      "pinyin": "kòng xián",
+      "english": "idle"
+    },
+    {
+      "other": "控制",
+      "pinyin": "kòng zhì",
+      "english": "control"
+    },
+    {
+      "other": "口味",
+      "pinyin": "kǒu wèi",
+      "english": "a person's preferences"
+    },
+    {
+      "other": "夸",
+      "pinyin": "kuā",
+      "english": "to boast"
+    },
+    {
+      "other": "会计",
+      "pinyin": "kuài jì",
+      "english": "accountant"
+    },
+    {
+      "other": "矿泉水",
+      "pinyin": "kuàng quán shuǐ",
+      "english": "mineral spring water"
+    },
+    {
+      "other": "辣椒",
+      "pinyin": "là jiāo",
+      "english": "hot pepper"
+    },
+    {
+      "other": "蜡烛",
+      "pinyin": "là zhú",
+      "english": "candle"
+    },
+    {
+      "other": "来自",
+      "pinyin": "lái zì",
+      "english": "to come from (a place)"
+    },
+    {
+      "other": "拦",
+      "pinyin": "lán",
+      "english": "to cut off"
+    },
+    {
+      "other": "烂",
+      "pinyin": "làn",
+      "english": "soft"
+    },
+    {
+      "other": "狼",
+      "pinyin": "láng",
+      "english": "wolf"
+    },
+    {
+      "other": "劳动",
+      "pinyin": "láo dòng",
+      "english": "work"
+    },
+    {
+      "other": "劳驾",
+      "pinyin": "láo jià",
+      "english": "excuse me"
+    },
+    {
+      "other": "老百姓",
+      "pinyin": "lǎo bǎi xìng",
+      "english": "ordinary people"
+    },
+    {
+      "other": "老板",
+      "pinyin": "lǎo bǎn",
+      "english": "boss"
+    },
+    {
+      "other": "老实",
+      "pinyin": "lǎo shí",
+      "english": "honest"
+    },
+    {
+      "other": "老鼠",
+      "pinyin": "lǎo shǔ",
+      "english": "rat"
+    },
+    {
+      "other": "姥姥",
+      "pinyin": "lǎo lao",
+      "english": "(informal) mother's mother"
+    },
+    {
+      "other": "乐观",
+      "pinyin": "lè guān",
+      "english": "optimistic"
+    },
+    {
+      "other": "雷",
+      "pinyin": "léi",
+      "english": "thunder"
+    },
+    {
+      "other": "类",
+      "pinyin": "lèi",
+      "english": "kind"
+    },
+    {
+      "other": "梨",
+      "pinyin": "lí",
+      "english": "pear"
+    },
+    {
+      "other": "离婚",
+      "pinyin": "lí hūn",
+      "english": "to divorce"
+    },
+    {
+      "other": "厘米",
+      "pinyin": "lí mǐ",
+      "english": "centimeter"
+    },
+    {
+      "other": "礼拜天",
+      "pinyin": "lǐ bài tiān",
+      "english": "Sunday"
+    },
+    {
+      "other": "理论",
+      "pinyin": "lǐ lùn",
+      "english": "theory"
+    },
+    {
+      "other": "理由",
+      "pinyin": "lǐ yóu",
+      "english": "reason"
+    },
+    {
+      "other": "粒",
+      "pinyin": "lì",
+      "english": "grain"
+    },
+    {
+      "other": "立方",
+      "pinyin": "lì fāng",
+      "english": "cube"
+    },
+    {
+      "other": "立即",
+      "pinyin": "lì jí",
+      "english": "immediately"
+    },
+    {
+      "other": "立刻",
+      "pinyin": "lì kè",
+      "english": "forthwith"
+    },
+    {
+      "other": "力量",
+      "pinyin": "lì liang",
+      "english": "power"
+    },
+    {
+      "other": "利润",
+      "pinyin": "lì rùn",
+      "english": "profits"
+    },
+    {
+      "other": "利息",
+      "pinyin": "lì xī",
+      "english": "interest (on a loan)"
+    },
+    {
+      "other": "利益",
+      "pinyin": "lì yì",
+      "english": "benefit"
+    },
+    {
+      "other": "利用",
+      "pinyin": "lì yòng",
+      "english": "exploit"
+    },
+    {
+      "other": "连忙",
+      "pinyin": "lián máng",
+      "english": "promptly"
+    },
+    {
+      "other": "连续剧",
+      "pinyin": "lián xù jù",
+      "english": "serialized drama"
+    },
+    {
+      "other": "联合",
+      "pinyin": "lián hé",
+      "english": "to combine"
+    },
+    {
+      "other": "恋爱",
+      "pinyin": "liàn ài",
+      "english": "(romantic) love"
+    },
+    {
+      "other": "良好",
+      "pinyin": "liáng hǎo",
+      "english": "good"
+    },
+    {
+      "other": "粮食",
+      "pinyin": "liáng shi",
+      "english": "foodstuff"
+    },
+    {
+      "other": "了不起",
+      "pinyin": "liǎo bu qǐ",
+      "english": "amazing"
+    },
+    {
+      "other": "临时",
+      "pinyin": "lín shí",
+      "english": "at the instant sth happens"
+    },
+    {
+      "other": "铃",
+      "pinyin": "líng",
+      "english": "(small) bell"
+    },
+    {
+      "other": "零件",
+      "pinyin": "líng jiàn",
+      "english": "part"
+    },
+    {
+      "other": "零钱",
+      "pinyin": "líng qián",
+      "english": "change (of money)"
+    },
+    {
+      "other": "零食",
+      "pinyin": "líng shí",
+      "english": "between-meal nibbles"
+    },
+    {
+      "other": "灵活",
+      "pinyin": "líng huó",
+      "english": "flexible"
+    },
+    {
+      "other": "领导",
+      "pinyin": "lǐng dǎo",
+      "english": "lead"
+    },
+    {
+      "other": "领域",
+      "pinyin": "lǐng yù",
+      "english": "domain"
+    },
+    {
+      "other": "流传",
+      "pinyin": "liú chuán",
+      "english": "to spread"
+    },
+    {
+      "other": "浏览",
+      "pinyin": "liú lǎn",
+      "english": "to skim over"
+    },
+    {
+      "other": "龙",
+      "pinyin": "lóng",
+      "english": "dragon"
+    },
+    {
+      "other": "漏",
+      "pinyin": "lòu",
+      "english": "to leak"
+    },
+    {
+      "other": "露",
+      "pinyin": "lù",
+      "english": "dew"
+    },
+    {
+      "other": "陆地",
+      "pinyin": "lù dì",
+      "english": "dry land (as opposed to the sea)"
+    },
+    {
+      "other": "陆续",
+      "pinyin": "lù xù",
+      "english": "in turn"
+    },
+    {
+      "other": "录取",
+      "pinyin": "lù qǔ",
+      "english": "to recruit"
+    },
+    {
+      "other": "录音",
+      "pinyin": "lù yīn",
+      "english": "to record (sound)"
+    },
+    {
+      "other": "轮流",
+      "pinyin": "lún liú",
+      "english": "to alternate"
+    },
+    {
+      "other": "论文",
+      "pinyin": "lùn wén",
+      "english": "paper"
+    },
+    {
+      "other": "逻辑",
+      "pinyin": "luó ji",
+      "english": "logic (loanword)"
+    },
+    {
+      "other": "落后",
+      "pinyin": "luò hòu",
+      "english": "to fall behind"
+    },
+    {
+      "other": "骂",
+      "pinyin": "mà",
+      "english": "to scold"
+    },
+    {
+      "other": "麦克风",
+      "pinyin": "mài kè fēng",
+      "english": "microphone (loanword)"
+    },
+    {
+      "other": "馒头",
+      "pinyin": "mán tou",
+      "english": "steamed roll"
+    },
+    {
+      "other": "满足",
+      "pinyin": "mǎn zú",
+      "english": "to satisfy"
+    },
+    {
+      "other": "毛",
+      "pinyin": "máo",
+      "english": "hair"
+    },
+    {
+      "other": "毛病",
+      "pinyin": "máo bìng",
+      "english": "fault"
+    },
+    {
+      "other": "矛盾",
+      "pinyin": "máo dùn",
+      "english": "contradictory"
+    },
+    {
+      "other": "冒险",
+      "pinyin": "mào xiǎn",
+      "english": "to take risks"
+    },
+    {
+      "other": "贸易",
+      "pinyin": "mào yì",
+      "english": "(commercial) trade"
+    },
+    {
+      "other": "眉毛",
+      "pinyin": "méi mao",
+      "english": "eyebrow"
+    },
+    {
+      "other": "煤炭",
+      "pinyin": "méi tàn",
+      "english": "coal"
+    },
+    {
+      "other": "美术",
+      "pinyin": "měi shù",
+      "english": "art"
+    },
+    {
+      "other": "魅力",
+      "pinyin": "mèi lì",
+      "english": "charm"
+    },
+    {
+      "other": "迷路",
+      "pinyin": "mí lù",
+      "english": "to lose the way"
+    },
+    {
+      "other": "谜语",
+      "pinyin": "mí yǔ",
+      "english": "riddle"
+    },
+    {
+      "other": "密切",
+      "pinyin": "mì qiè",
+      "english": "close"
+    },
+    {
+      "other": "蜜蜂",
+      "pinyin": "mì fēng",
+      "english": "bee"
+    },
+    {
+      "other": "秘密",
+      "pinyin": "mì mì",
+      "english": "secret"
+    },
+    {
+      "other": "秘书",
+      "pinyin": "mì shū",
+      "english": "secretary"
+    },
+    {
+      "other": "棉花",
+      "pinyin": "mián hua",
+      "english": "cotton"
+    },
+    {
+      "other": "面对",
+      "pinyin": "miàn duì",
+      "english": "to confront"
+    },
+    {
+      "other": "面积",
+      "pinyin": "miàn ji",
+      "english": "area (of a floor"
+    },
+    {
+      "other": "面临",
+      "pinyin": "miàn lín",
+      "english": "to face sth"
+    },
+    {
+      "other": "描写",
+      "pinyin": "miáo xiě",
+      "english": "to describe"
+    },
+    {
+      "other": "苗条",
+      "pinyin": "miáo tiáo",
+      "english": "slim"
+    },
+    {
+      "other": "秒",
+      "pinyin": "miǎo",
+      "english": "second (of time)"
+    },
+    {
+      "other": "民主",
+      "pinyin": "mín zhǔ",
+      "english": "democracy"
+    },
+    {
+      "other": "明确",
+      "pinyin": "míng què",
+      "english": "clear-cut"
+    },
+    {
+      "other": "明显",
+      "pinyin": "míng xiǎn",
+      "english": "clear"
+    },
+    {
+      "other": "明信片",
+      "pinyin": "míng xìn piàn",
+      "english": "postcard"
+    },
+    {
+      "other": "明星",
+      "pinyin": "míng xīng",
+      "english": "star"
+    },
+    {
+      "other": "名牌",
+      "pinyin": "míng pái",
+      "english": "famous brand"
+    },
+    {
+      "other": "名片",
+      "pinyin": "míng piàn",
+      "english": "(business) card"
+    },
+    {
+      "other": "名胜",
+      "pinyin": "míng shèng",
+      "english": "a place famous for its scenery or historical relics"
+    },
+    {
+      "other": "命令",
+      "pinyin": "mìng lìng",
+      "english": "order"
+    },
+    {
+      "other": "命运",
+      "pinyin": "mìng yùn",
+      "english": "fate"
+    },
+    {
+      "other": "摸",
+      "pinyin": "mō",
+      "english": "to feel with the hand"
+    },
+    {
+      "other": "摩托车",
+      "pinyin": "mó tuō chē",
+      "english": "motorbike"
+    },
+    {
+      "other": "模仿",
+      "pinyin": "mó fǎng",
+      "english": "to imitate"
+    },
+    {
+      "other": "模糊",
+      "pinyin": "mó hu",
+      "english": "vague"
+    },
+    {
+      "other": "陌生",
+      "pinyin": "mò shēng",
+      "english": "strange"
+    },
+    {
+      "other": "某",
+      "pinyin": "mǒu",
+      "english": "some"
+    },
+    {
+      "other": "目标",
+      "pinyin": "mù biāo",
+      "english": "target"
+    },
+    {
+      "other": "目录",
+      "pinyin": "mù lù",
+      "english": "catalog"
+    },
+    {
+      "other": "目前",
+      "pinyin": "mù qián",
+      "english": "at the present time"
+    },
+    {
+      "other": "木头",
+      "pinyin": "mù tou",
+      "english": "slow-witted"
+    },
+    {
+      "other": "哪怕",
+      "pinyin": "nǎ pà",
+      "english": "even"
+    },
+    {
+      "other": "难怪",
+      "pinyin": "nán guài",
+      "english": "(it's) no wonder (that...)"
+    },
+    {
+      "other": "难看",
+      "pinyin": "nán kàn",
+      "english": "ugly"
+    },
+    {
+      "other": "脑袋",
+      "pinyin": "nǎo dài",
+      "english": "head"
+    },
+    {
+      "other": "内科",
+      "pinyin": "nèi kē",
+      "english": "internal medicine"
+    },
+    {
+      "other": "嫩",
+      "pinyin": "nèn",
+      "english": "tender"
+    },
+    {
+      "other": "能干",
+      "pinyin": "néng gàn",
+      "english": "capable"
+    },
+    {
+      "other": "能源",
+      "pinyin": "néng yuán",
+      "english": "energy"
+    },
+    {
+      "other": "年代",
+      "pinyin": "nián dài",
+      "english": "a decade of a century (e.g. the Sixties)"
+    },
+    {
+      "other": "年纪",
+      "pinyin": "nián jì",
+      "english": "age"
+    },
+    {
+      "other": "念",
+      "pinyin": "niàn",
+      "english": "to read"
+    },
+    {
+      "other": "宁可",
+      "pinyin": "nìng kě",
+      "english": "preferably"
+    },
+    {
+      "other": "牛仔裤",
+      "pinyin": "niú zǎi kù",
+      "english": "jeans"
+    },
+    {
+      "other": "浓",
+      "pinyin": "nóng",
+      "english": "concentrated"
+    },
+    {
+      "other": "农民",
+      "pinyin": "nóng mín",
+      "english": "peasant"
+    },
+    {
+      "other": "农业",
+      "pinyin": "nóng yè",
+      "english": "agriculture"
+    },
+    {
+      "other": "女士",
+      "pinyin": "nǚ shì",
+      "english": "lady"
+    },
+    {
+      "other": "偶然",
+      "pinyin": "ǒu rán",
+      "english": "incidentally"
+    },
+    {
+      "other": "拍",
+      "pinyin": "pāi",
+      "english": "to pat"
+    },
+    {
+      "other": "排队",
+      "pinyin": "pái duì",
+      "english": "to line up"
+    },
+    {
+      "other": "排球",
+      "pinyin": "pái qiú",
+      "english": "volleyball"
+    },
+    {
+      "other": "派",
+      "pinyin": "pài",
+      "english": "clique"
+    },
+    {
+      "other": "盼望",
+      "pinyin": "pàn wàng",
+      "english": "to hope for"
+    },
+    {
+      "other": "赔偿",
+      "pinyin": "péi cháng",
+      "english": "to compensate"
+    },
+    {
+      "other": "培养",
+      "pinyin": "péi yǎng",
+      "english": "to cultivate"
+    },
+    {
+      "other": "配合",
+      "pinyin": "pèi hé",
+      "english": "matching"
+    },
+    {
+      "other": "佩服",
+      "pinyin": "pèi fú",
+      "english": "to admire"
+    },
+    {
+      "other": "盆",
+      "pinyin": "pén",
+      "english": "basin"
+    },
+    {
+      "other": "碰见",
+      "pinyin": "pèng jiàn",
+      "english": "to run into"
+    },
+    {
+      "other": "披",
+      "pinyin": "pī",
+      "english": "to drape over one's shoulders"
+    },
+    {
+      "other": "批",
+      "pinyin": "pī",
+      "english": "to ascertain"
+    },
+    {
+      "other": "批准",
+      "pinyin": "pī zhǔn",
+      "english": "to approve"
+    },
+    {
+      "other": "疲劳",
+      "pinyin": "pí láo",
+      "english": "fatigue"
+    },
+    {
+      "other": "皮鞋",
+      "pinyin": "pí xié",
+      "english": "leather shoes"
+    },
+    {
+      "other": "匹",
+      "pinyin": "pǐ",
+      "english": "classifier for horses"
+    },
+    {
+      "other": "片",
+      "pinyin": "piàn",
+      "english": "thin piece"
+    },
+    {
+      "other": "片面",
+      "pinyin": "piàn miàn",
+      "english": "unilateral"
+    },
+    {
+      "other": "飘",
+      "pinyin": "piāo",
+      "english": "to float"
+    },
+    {
+      "other": "频道",
+      "pinyin": "pín dào",
+      "english": "frequency"
+    },
+    {
+      "other": "品种",
+      "pinyin": "pǐn zhǒng",
+      "english": "breed"
+    },
+    {
+      "other": "凭",
+      "pinyin": "píng",
+      "english": "to lean against"
+    },
+    {
+      "other": "平",
+      "pinyin": "píng",
+      "english": "flat"
+    },
+    {
+      "other": "平常",
+      "pinyin": "píng cháng",
+      "english": "ordinary"
+    },
+    {
+      "other": "平等",
+      "pinyin": "píng děng",
+      "english": "equal"
+    },
+    {
+      "other": "平方",
+      "pinyin": "píng fāng",
+      "english": "square (as in square foot"
+    },
+    {
+      "other": "平衡",
+      "pinyin": "píng héng",
+      "english": "balance"
+    },
+    {
+      "other": "平静",
+      "pinyin": "píng jìng",
+      "english": "tranquil"
+    },
+    {
+      "other": "平均",
+      "pinyin": "píng jūn",
+      "english": "average"
+    },
+    {
+      "other": "评价",
+      "pinyin": "píng jià",
+      "english": "to evaluate"
+    },
+    {
+      "other": "破产",
+      "pinyin": "pò chǎn",
+      "english": "to go bankrupt"
+    },
+    {
+      "other": "破坏",
+      "pinyin": "pò huài",
+      "english": "destruction"
+    },
+    {
+      "other": "迫切",
+      "pinyin": "pò qiè",
+      "english": "urgent"
+    },
+    {
+      "other": "朴素",
+      "pinyin": "pǔ sù",
+      "english": "plain and simple"
+    },
+    {
+      "other": "期待",
+      "pinyin": "qī dài",
+      "english": "to look forward to"
+    },
+    {
+      "other": "期间",
+      "pinyin": "qī jiān",
+      "english": "period of time"
+    },
+    {
+      "other": "其余",
+      "pinyin": "qí yú",
+      "english": "the rest"
+    },
+    {
+      "other": "奇迹",
+      "pinyin": "qí jì",
+      "english": "miracle"
+    },
+    {
+      "other": "启发",
+      "pinyin": "qǐ fā",
+      "english": "to enlighten"
+    },
+    {
+      "other": "企图",
+      "pinyin": "qǐ tú",
+      "english": "to attempt"
+    },
+    {
+      "other": "企业",
+      "pinyin": "qǐ yè",
+      "english": "company"
+    },
+    {
+      "other": "气氛",
+      "pinyin": "qì fēn",
+      "english": "atmosphere"
+    },
+    {
+      "other": "汽油",
+      "pinyin": "qì yóu",
+      "english": "gasoline"
+    },
+    {
+      "other": "牵",
+      "pinyin": "qiān",
+      "english": "to pull (an animal on a tether)"
+    },
+    {
+      "other": "签字",
+      "pinyin": "qiān zì",
+      "english": "to sign (a signature)"
+    },
+    {
+      "other": "谦虚",
+      "pinyin": "qiān xū",
+      "english": "modest"
+    },
+    {
+      "other": "前途",
+      "pinyin": "qián tú",
+      "english": "prospects"
+    },
+    {
+      "other": "浅",
+      "pinyin": "qiǎn",
+      "english": "shallow"
+    },
+    {
+      "other": "欠",
+      "pinyin": "qiàn",
+      "english": "deficient"
+    },
+    {
+      "other": "枪",
+      "pinyin": "qiāng",
+      "english": "gun"
+    },
+    {
+      "other": "强调",
+      "pinyin": "qiáng diào",
+      "english": "to emphasize (a statement)"
+    },
+    {
+      "other": "强烈",
+      "pinyin": "qiáng liè",
+      "english": "intense"
+    },
+    {
+      "other": "抢",
+      "pinyin": "qiǎng",
+      "english": "to fight over"
+    },
+    {
+      "other": "悄悄",
+      "pinyin": "qiāo qiāo",
+      "english": "quietly"
+    },
+    {
+      "other": "瞧",
+      "pinyin": "qiáo",
+      "english": "to look at"
+    },
+    {
+      "other": "巧妙",
+      "pinyin": "qiǎo miào",
+      "english": "ingenious"
+    },
+    {
+      "other": "切",
+      "pinyin": "qiē",
+      "english": "to cut"
+    },
+    {
+      "other": "亲爱",
+      "pinyin": "qīn ài",
+      "english": "dear"
+    },
+    {
+      "other": "亲切",
+      "pinyin": "qīn qiè",
+      "english": "amiable"
+    },
+    {
+      "other": "亲自",
+      "pinyin": "qīn zì",
+      "english": "personally"
+    },
+    {
+      "other": "侵略",
+      "pinyin": "qīn lvè",
+      "english": "invasion"
+    },
+    {
+      "other": "勤奋",
+      "pinyin": "qín fèn",
+      "english": "hardworking"
+    },
+    {
+      "other": "勤劳",
+      "pinyin": "qín láo",
+      "english": "hardworking"
+    },
+    {
+      "other": "青",
+      "pinyin": "qīng",
+      "english": "nature's color"
+    },
+    {
+      "other": "青春",
+      "pinyin": "qīng chūn",
+      "english": "youth"
+    },
+    {
+      "other": "青少年",
+      "pinyin": "qīng shào nián",
+      "english": "adolescent"
+    },
+    {
+      "other": "轻视",
+      "pinyin": "qīng shì",
+      "english": "contempt"
+    },
+    {
+      "other": "清淡",
+      "pinyin": "qīng dàn",
+      "english": "light (of food"
+    },
+    {
+      "other": "情景",
+      "pinyin": "qíng jǐng",
+      "english": "scene"
+    },
+    {
+      "other": "情绪",
+      "pinyin": "qíng xù",
+      "english": "mood"
+    },
+    {
+      "other": "请求",
+      "pinyin": "qǐng qiú",
+      "english": "request"
+    },
+    {
+      "other": "庆祝",
+      "pinyin": "qìng zhù",
+      "english": "to celebrate"
+    },
+    {
+      "other": "球迷",
+      "pinyin": "qiú mí",
+      "english": "soccer fan"
+    },
+    {
+      "other": "趋势",
+      "pinyin": "qū shì",
+      "english": "trend"
+    },
+    {
+      "other": "娶",
+      "pinyin": "qǔ",
+      "english": "to take a wife"
+    },
+    {
+      "other": "取消",
+      "pinyin": "qǔ xiāo",
+      "english": "to cancel"
+    },
+    {
+      "other": "去世",
+      "pinyin": "qù shì",
+      "english": "to pass away"
+    },
+    {
+      "other": "圈",
+      "pinyin": "quān",
+      "english": "circle"
+    },
+    {
+      "other": "全面",
+      "pinyin": "quán miàn",
+      "english": "all-around"
+    },
+    {
+      "other": "权力",
+      "pinyin": "quán lì",
+      "english": "power"
+    },
+    {
+      "other": "权利",
+      "pinyin": "quán lì",
+      "english": "power"
+    },
+    {
+      "other": "劝",
+      "pinyin": "quàn",
+      "english": "to advise"
+    },
+    {
+      "other": "缺乏",
+      "pinyin": "quē fá",
+      "english": "shortage"
+    },
+    {
+      "other": "确定",
+      "pinyin": "què dìng",
+      "english": "definite"
+    },
+    {
+      "other": "确认",
+      "pinyin": "què rèn",
+      "english": "to confirm"
+    },
+    {
+      "other": "燃烧",
+      "pinyin": "rán shāo",
+      "english": "to ignite"
+    },
+    {
+      "other": "嚷",
+      "pinyin": "rǎng",
+      "english": "blurt out"
+    },
+    {
+      "other": "绕",
+      "pinyin": "rào",
+      "english": "to wind"
+    },
+    {
+      "other": "热爱",
+      "pinyin": "rè ài",
+      "english": "to love ardently"
+    },
+    {
+      "other": "热烈",
+      "pinyin": "rè liè",
+      "english": "warm (welcome etc)"
+    },
+    {
+      "other": "热心",
+      "pinyin": "rè xīn",
+      "english": "enthusiasm"
+    },
+    {
+      "other": "人才",
+      "pinyin": "rén cái",
+      "english": "a person's talent"
+    },
+    {
+      "other": "人口",
+      "pinyin": "rén kǒu",
+      "english": "population"
+    },
+    {
+      "other": "人类",
+      "pinyin": "rén lèi",
+      "english": "humanity"
+    },
+    {
+      "other": "人生",
+      "pinyin": "rén shēng",
+      "english": "life (one's time on earth)"
+    },
+    {
+      "other": "人事",
+      "pinyin": "rén shì",
+      "english": "human affairs"
+    },
+    {
+      "other": "人物",
+      "pinyin": "rén wù",
+      "english": "person"
+    },
+    {
+      "other": "人员",
+      "pinyin": "rén yuán",
+      "english": "staff"
+    },
+    {
+      "other": "忍不住",
+      "pinyin": "rěn bu zhù",
+      "english": "cannot help"
+    },
+    {
+      "other": "日常",
+      "pinyin": "rì cháng",
+      "english": "daily"
+    },
+    {
+      "other": "日程",
+      "pinyin": "rì chéng",
+      "english": "schedule"
+    },
+    {
+      "other": "日历",
+      "pinyin": "rì lì",
+      "english": "calendar"
+    },
+    {
+      "other": "日期",
+      "pinyin": "rì qī",
+      "english": "date"
+    },
+    {
+      "other": "日用品",
+      "pinyin": "rì yòng pǐn",
+      "english": "articles for daily use"
+    },
+    {
+      "other": "融化",
+      "pinyin": "róng huà",
+      "english": "to melt"
+    },
+    {
+      "other": "荣幸",
+      "pinyin": "róng xìng",
+      "english": "honored"
+    },
+    {
+      "other": "荣誉",
+      "pinyin": "róng yù",
+      "english": "honor"
+    },
+    {
+      "other": "如何",
+      "pinyin": "rú hé",
+      "english": "how"
+    },
+    {
+      "other": "如今",
+      "pinyin": "rú jīn",
+      "english": "nowadays"
+    },
+    {
+      "other": "软件",
+      "pinyin": "ruǎn jiàn",
+      "english": "(computer) software"
+    },
+    {
+      "other": "弱",
+      "pinyin": "ruò",
+      "english": "weak"
+    },
+    {
+      "other": "洒",
+      "pinyin": "sǎ",
+      "english": "to sprinkle"
+    },
+    {
+      "other": "嗓子",
+      "pinyin": "sǎng zi",
+      "english": "throat"
+    },
+    {
+      "other": "杀",
+      "pinyin": "shā",
+      "english": "to kill"
+    },
+    {
+      "other": "沙漠",
+      "pinyin": "shā mò",
+      "english": "desert"
+    },
+    {
+      "other": "沙滩",
+      "pinyin": "shā tān",
+      "english": "beach"
+    },
+    {
+      "other": "傻",
+      "pinyin": "shǎ",
+      "english": "foolish"
+    },
+    {
+      "other": "晒",
+      "pinyin": "shài",
+      "english": "to dry in the sun"
+    },
+    {
+      "other": "删除",
+      "pinyin": "shān chú",
+      "english": "to delete"
+    },
+    {
+      "other": "闪电",
+      "pinyin": "shǎn diàn",
+      "english": "lightning"
+    },
+    {
+      "other": "善良",
+      "pinyin": "shàn liáng",
+      "english": "good and honest"
+    },
+    {
+      "other": "善于",
+      "pinyin": "shàn yú",
+      "english": "to be good at"
+    },
+    {
+      "other": "扇子",
+      "pinyin": "shān zi",
+      "english": "fan"
+    },
+    {
+      "other": "商品",
+      "pinyin": "shāng pǐn",
+      "english": "good"
+    },
+    {
+      "other": "商业",
+      "pinyin": "shāng yè",
+      "english": "business"
+    },
+    {
+      "other": "上当",
+      "pinyin": "shàng dàng",
+      "english": "taken in (by sb's deceit)"
+    },
+    {
+      "other": "勺子",
+      "pinyin": "sháo zi",
+      "english": "scoop"
+    },
+    {
+      "other": "蛇",
+      "pinyin": "shé",
+      "english": "snake"
+    },
+    {
+      "other": "舌头",
+      "pinyin": "shé tou",
+      "english": "tongue"
+    },
+    {
+      "other": "舍不得",
+      "pinyin": "shě bu de",
+      "english": "to hate to do sth"
+    },
+    {
+      "other": "设备",
+      "pinyin": "shè bèi",
+      "english": "equipment"
+    },
+    {
+      "other": "设计",
+      "pinyin": "shè jì",
+      "english": "plan"
+    },
+    {
+      "other": "设施",
+      "pinyin": "shè shī",
+      "english": "facilities"
+    },
+    {
+      "other": "射击",
+      "pinyin": "shè jī",
+      "english": "to shoot"
+    },
+    {
+      "other": "摄影",
+      "pinyin": "shè yǐng",
+      "english": "to take a photograph"
+    },
+    {
+      "other": "伸",
+      "pinyin": "shēn",
+      "english": "to stretch"
+    },
+    {
+      "other": "深刻",
+      "pinyin": "shēn kè",
+      "english": "profound"
+    },
+    {
+      "other": "身材",
+      "pinyin": "shēn cái",
+      "english": "stature"
+    },
+    {
+      "other": "身份",
+      "pinyin": "shēn fèn",
+      "english": "identity"
+    },
+    {
+      "other": "神话",
+      "pinyin": "shén huà",
+      "english": "legend"
+    },
+    {
+      "other": "神经",
+      "pinyin": "shén jīng",
+      "english": "nerve"
+    },
+    {
+      "other": "神秘",
+      "pinyin": "shén mì",
+      "english": "mysterious"
+    },
+    {
+      "other": "升",
+      "pinyin": "shēng",
+      "english": "variant of 升[shēng]"
+    },
+    {
+      "other": "生产",
+      "pinyin": "shēng chǎn",
+      "english": "childbirth"
+    },
+    {
+      "other": "生动",
+      "pinyin": "shēng dòng",
+      "english": "vivid"
+    },
+    {
+      "other": "声调",
+      "pinyin": "shēng diào",
+      "english": "tone"
+    },
+    {
+      "other": "绳子",
+      "pinyin": "shéng zi",
+      "english": "cord"
+    },
+    {
+      "other": "省略",
+      "pinyin": "shěng lvè",
+      "english": "to leave out"
+    },
+    {
+      "other": "胜利",
+      "pinyin": "shèng lì",
+      "english": "victory"
+    },
+    {
+      "other": "诗",
+      "pinyin": "shī",
+      "english": "poem"
+    },
+    {
+      "other": "失眠",
+      "pinyin": "shī mián",
+      "english": "to suffer from insomnia"
+    },
+    {
+      "other": "失去",
+      "pinyin": "shī qù",
+      "english": "to lose"
+    },
+    {
+      "other": "失业",
+      "pinyin": "shī yè",
+      "english": "unemployment"
+    },
+    {
+      "other": "时代",
+      "pinyin": "shí dài",
+      "english": "age"
+    },
+    {
+      "other": "时刻",
+      "pinyin": "shí kè",
+      "english": "moment"
+    },
+    {
+      "other": "时髦",
+      "pinyin": "shí máo",
+      "english": "in vogue"
+    },
+    {
+      "other": "时期",
+      "pinyin": "shí qī",
+      "english": "period"
+    },
+    {
+      "other": "时尚",
+      "pinyin": "shí shàng",
+      "english": "fashion"
+    },
+    {
+      "other": "实话",
+      "pinyin": "shí huà",
+      "english": "truth"
+    },
+    {
+      "other": "实践",
+      "pinyin": "shí jiàn",
+      "english": "to practice"
+    },
+    {
+      "other": "实习",
+      "pinyin": "shí xí",
+      "english": "to practice"
+    },
+    {
+      "other": "实现",
+      "pinyin": "shí xiàn",
+      "english": "to achieve"
+    },
+    {
+      "other": "实行",
+      "pinyin": "shí xíng",
+      "english": "to implement"
+    },
+    {
+      "other": "实验",
+      "pinyin": "shí yàn",
+      "english": "experiment"
+    },
+    {
+      "other": "实用",
+      "pinyin": "shí yòng",
+      "english": "practical"
+    },
+    {
+      "other": "食物",
+      "pinyin": "shí wù",
+      "english": "food"
+    },
+    {
+      "other": "石头",
+      "pinyin": "shí tou",
+      "english": "stone"
+    },
+    {
+      "other": "使劲儿",
+      "pinyin": "shǐ jìn ér",
+      "english": "Rearing"
+    },
+    {
+      "other": "始终",
+      "pinyin": "shǐ zhōng",
+      "english": "from beginning to end"
+    },
+    {
+      "other": "是否",
+      "pinyin": "shì fǒu",
+      "english": "whether (or not)"
+    },
+    {
+      "other": "试卷",
+      "pinyin": "shì juàn",
+      "english": "examination paper"
+    },
+    {
+      "other": "士兵",
+      "pinyin": "shì bīng",
+      "english": "soldier"
+    },
+    {
+      "other": "似的",
+      "pinyin": "shì de",
+      "english": "seems as if"
+    },
+    {
+      "other": "事实",
+      "pinyin": "shì shí",
+      "english": "fact"
+    },
+    {
+      "other": "事物",
+      "pinyin": "shì wù",
+      "english": "thing"
+    },
+    {
+      "other": "事先",
+      "pinyin": "shì xiān",
+      "english": "in advance"
+    },
+    {
+      "other": "收获",
+      "pinyin": "shōu huò",
+      "english": "to harvest"
+    },
+    {
+      "other": "收据",
+      "pinyin": "shōu jù",
+      "english": "receipt"
+    },
+    {
+      "other": "手工",
+      "pinyin": "shǒu gōng",
+      "english": "handwork"
+    },
+    {
+      "other": "手术",
+      "pinyin": "shǒu shù",
+      "english": "(surgical) operation"
+    },
+    {
+      "other": "手套",
+      "pinyin": "shǒu tào",
+      "english": "glove"
+    },
+    {
+      "other": "手续",
+      "pinyin": "shǒu xù",
+      "english": "procedure"
+    },
+    {
+      "other": "手指",
+      "pinyin": "shǒu zhǐ",
+      "english": "finger"
+    },
+    {
+      "other": "受伤",
+      "pinyin": "shòu shāng",
+      "english": "to sustain injuries"
+    },
+    {
+      "other": "寿命",
+      "pinyin": "shòu mìng",
+      "english": "life span"
+    },
+    {
+      "other": "书架",
+      "pinyin": "shū jià",
+      "english": "bookshelf"
+    },
+    {
+      "other": "输入",
+      "pinyin": "shū rù",
+      "english": "to import"
+    },
+    {
+      "other": "蔬菜",
+      "pinyin": "shū cài",
+      "english": "vegetables"
+    },
+    {
+      "other": "舒适",
+      "pinyin": "shū shì",
+      "english": "cozy"
+    },
+    {
+      "other": "梳子",
+      "pinyin": "shū zi",
+      "english": "comb"
+    },
+    {
+      "other": "熟练",
+      "pinyin": "shú liàn",
+      "english": "practiced"
+    },
+    {
+      "other": "鼠标",
+      "pinyin": "shǔ biāo",
+      "english": "mouse (computing)"
+    },
+    {
+      "other": "属于",
+      "pinyin": "shǔ yú",
+      "english": "to be classified as"
+    },
+    {
+      "other": "数据",
+      "pinyin": "shù jù",
+      "english": "data"
+    },
+    {
+      "other": "数码",
+      "pinyin": "shù mǎ",
+      "english": "number"
+    },
+    {
+      "other": "摔",
+      "pinyin": "shuāi",
+      "english": "to throw down"
+    },
+    {
+      "other": "甩",
+      "pinyin": "shuǎi",
+      "english": "to throw"
+    },
+    {
+      "other": "双方",
+      "pinyin": "shuāng fāng",
+      "english": "bilateral"
+    },
+    {
+      "other": "税",
+      "pinyin": "shuì",
+      "english": "taxes"
+    },
+    {
+      "other": "说不定",
+      "pinyin": "shuō bu dìng",
+      "english": "can't say for sure"
+    },
+    {
+      "other": "说服",
+      "pinyin": "shuō fú",
+      "english": "to persuade"
+    },
+    {
+      "other": "撕",
+      "pinyin": "sī",
+      "english": "to tear"
+    },
+    {
+      "other": "丝绸",
+      "pinyin": "sī chóu",
+      "english": "silk cloth"
+    },
+    {
+      "other": "丝毫",
+      "pinyin": "sī háo",
+      "english": "the slightest amount or degree"
+    },
+    {
+      "other": "思考",
+      "pinyin": "sī kǎo",
+      "english": "to reflect on"
+    },
+    {
+      "other": "思想",
+      "pinyin": "sī xiǎng",
+      "english": "thought"
+    },
+    {
+      "other": "私人",
+      "pinyin": "sī rén",
+      "english": "private"
+    },
+    {
+      "other": "似乎",
+      "pinyin": "sì hū",
+      "english": "apparently"
+    },
+    {
+      "other": "寺庙",
+      "pinyin": "sì miào",
+      "english": "temple"
+    },
+    {
+      "other": "宿舍",
+      "pinyin": "sù shè",
+      "english": "dormitory"
+    },
+    {
+      "other": "随时",
+      "pinyin": "suí shí",
+      "english": "at any time"
+    },
+    {
+      "other": "碎",
+      "pinyin": "suì",
+      "english": "to break down"
+    },
+    {
+      "other": "损失",
+      "pinyin": "sǔn shī",
+      "english": "loss"
+    },
+    {
+      "other": "缩短",
+      "pinyin": "suō duǎn",
+      "english": "to curtail"
+    },
+    {
+      "other": "缩小",
+      "pinyin": "suō xiǎo",
+      "english": "to reduce"
+    },
+    {
+      "other": "锁",
+      "pinyin": "suǒ",
+      "english": "to lock up"
+    },
+    {
+      "other": "所",
+      "pinyin": "suǒ",
+      "english": "actually"
+    },
+    {
+      "other": "所谓",
+      "pinyin": "suǒ wèi",
+      "english": "so-called"
+    },
+    {
+      "other": "塔",
+      "pinyin": "tǎ",
+      "english": "pagoda"
+    },
+    {
+      "other": "台阶",
+      "pinyin": "tái jiē",
+      "english": "steps"
+    },
+    {
+      "other": "太极拳",
+      "pinyin": "tài jí quán",
+      "english": "shadowboxing or Taiji"
+    },
+    {
+      "other": "太太",
+      "pinyin": "tài tai",
+      "english": "married woman"
+    },
+    {
+      "other": "谈判",
+      "pinyin": "tán pàn",
+      "english": "to negotiate"
+    },
+    {
+      "other": "坦率",
+      "pinyin": "tǎn shuài",
+      "english": "frank (discussion)"
+    },
+    {
+      "other": "烫",
+      "pinyin": "tàng",
+      "english": "to scald"
+    },
+    {
+      "other": "桃",
+      "pinyin": "táo",
+      "english": "peach"
+    },
+    {
+      "other": "逃",
+      "pinyin": "táo",
+      "english": "to escape"
+    },
+    {
+      "other": "逃避",
+      "pinyin": "táo bì",
+      "english": "to escape"
+    },
+    {
+      "other": "套",
+      "pinyin": "tào",
+      "english": "cover"
+    },
+    {
+      "other": "特殊",
+      "pinyin": "tè shū",
+      "english": "special"
+    },
+    {
+      "other": "特意",
+      "pinyin": "tè yì",
+      "english": "specially"
+    },
+    {
+      "other": "特征",
+      "pinyin": "tè zhēng",
+      "english": "characteristic"
+    },
+    {
+      "other": "疼爱",
+      "pinyin": "téng ài",
+      "english": "to love dearly"
+    },
+    {
+      "other": "提",
+      "pinyin": "tí",
+      "english": "to carry (hanging down from the hand)"
+    },
+    {
+      "other": "提倡",
+      "pinyin": "tí chàng",
+      "english": "to promote"
+    },
+    {
+      "other": "提纲",
+      "pinyin": "tí gāng",
+      "english": "the key point"
+    },
+    {
+      "other": "提问",
+      "pinyin": "tí wèn",
+      "english": "to question"
+    },
+    {
+      "other": "题目",
+      "pinyin": "tí mù",
+      "english": "subject"
+    },
+    {
+      "other": "体会",
+      "pinyin": "tǐ huì",
+      "english": "to know from experience"
+    },
+    {
+      "other": "体积",
+      "pinyin": "tǐ jī",
+      "english": "volume"
+    },
+    {
+      "other": "体贴",
+      "pinyin": "tǐ tiē",
+      "english": "considerate (of other people's needs)"
+    },
+    {
+      "other": "体现",
+      "pinyin": "tǐ xiàn",
+      "english": "to embody"
+    },
+    {
+      "other": "体验",
+      "pinyin": "tǐ yàn",
+      "english": "to experience for oneself"
+    },
+    {
+      "other": "天空",
+      "pinyin": "tiān kōng",
+      "english": "sky"
+    },
+    {
+      "other": "天真",
+      "pinyin": "tiān zhēn",
+      "english": "naive"
+    },
+    {
+      "other": "田野",
+      "pinyin": "tián yě",
+      "english": "field"
+    },
+    {
+      "other": "调皮",
+      "pinyin": "tiáo pí",
+      "english": "naughty"
+    },
+    {
+      "other": "调整",
+      "pinyin": "tiáo zhěng",
+      "english": "to adjust"
+    },
+    {
+      "other": "挑战",
+      "pinyin": "tiǎo zhàn",
+      "english": "to challenge"
+    },
+    {
+      "other": "通常",
+      "pinyin": "tōng cháng",
+      "english": "regular"
+    },
+    {
+      "other": "通讯",
+      "pinyin": "tōng xùn",
+      "english": "communications"
+    },
+    {
+      "other": "铜",
+      "pinyin": "tóng",
+      "english": "copper (chemistry)"
+    },
+    {
+      "other": "同时",
+      "pinyin": "tóng shí",
+      "english": "at the same time"
+    },
+    {
+      "other": "统一",
+      "pinyin": "tǒng yī",
+      "english": "to unify"
+    },
+    {
+      "other": "统治",
+      "pinyin": "tǒng zhì",
+      "english": "to rule (a country)"
+    },
+    {
+      "other": "痛苦",
+      "pinyin": "tòng kǔ",
+      "english": "pain"
+    },
+    {
+      "other": "痛快",
+      "pinyin": "tòng kuài",
+      "english": "overjoyed"
+    },
+    {
+      "other": "投资",
+      "pinyin": "tóu zī",
+      "english": "investment"
+    },
+    {
+      "other": "透明",
+      "pinyin": "tòu míng",
+      "english": "transparent"
+    },
+    {
+      "other": "突出",
+      "pinyin": "tū chū",
+      "english": "prominent"
+    },
+    {
+      "other": "土地",
+      "pinyin": "tǔ dì",
+      "english": "land"
+    },
+    {
+      "other": "土豆",
+      "pinyin": "tǔ dòu",
+      "english": "potato"
+    },
+    {
+      "other": "吐",
+      "pinyin": "tù",
+      "english": "to vomit"
+    },
+    {
+      "other": "兔子",
+      "pinyin": "tù zi",
+      "english": "hare"
+    },
+    {
+      "other": "团",
+      "pinyin": "tuán",
+      "english": "dumpling"
+    },
+    {
+      "other": "推辞",
+      "pinyin": "tuī cí",
+      "english": "to decline (an appointment"
+    },
+    {
+      "other": "推广",
+      "pinyin": "tuī guǎng",
+      "english": "to extend"
+    },
+    {
+      "other": "推荐",
+      "pinyin": "tuī jiàn",
+      "english": "to recommend"
+    },
+    {
+      "other": "退",
+      "pinyin": "tuì",
+      "english": "to retreat"
+    },
+    {
+      "other": "退步",
+      "pinyin": "tuì bù",
+      "english": "to do less well than before"
+    },
+    {
+      "other": "退休",
+      "pinyin": "tuì xiū",
+      "english": "to retire"
+    },
+    {
+      "other": "歪",
+      "pinyin": "wāi",
+      "english": "askew"
+    },
+    {
+      "other": "外交",
+      "pinyin": "wài jiāo",
+      "english": "diplomacy"
+    },
+    {
+      "other": "弯",
+      "pinyin": "wān",
+      "english": "bend"
+    },
+    {
+      "other": "完美",
+      "pinyin": "wán měi",
+      "english": "perfect"
+    },
+    {
+      "other": "完善",
+      "pinyin": "wán shàn",
+      "english": "perfect"
+    },
+    {
+      "other": "完整",
+      "pinyin": "wán zhěng",
+      "english": "complete"
+    },
+    {
+      "other": "玩具",
+      "pinyin": "wán jù",
+      "english": "plaything"
+    },
+    {
+      "other": "万一",
+      "pinyin": "wàn yī",
+      "english": "just in case"
+    },
+    {
+      "other": "王子",
+      "pinyin": "wáng zǐ",
+      "english": "prince"
+    },
+    {
+      "other": "往返",
+      "pinyin": "wǎng fǎn",
+      "english": "to go back and forth"
+    },
+    {
+      "other": "微笑",
+      "pinyin": "wēi xiào",
+      "english": "smile"
+    },
+    {
+      "other": "威胁",
+      "pinyin": "wēi xié",
+      "english": "to threaten"
+    },
+    {
+      "other": "危害",
+      "pinyin": "wēi hài",
+      "english": "to jeopardize"
+    },
+    {
+      "other": "违反",
+      "pinyin": "wéi fǎn",
+      "english": "to violate (a law)"
+    },
+    {
+      "other": "维护",
+      "pinyin": "wéi hù",
+      "english": "to defend"
+    },
+    {
+      "other": "围巾",
+      "pinyin": "wéi jīn",
+      "english": "scarf"
+    },
+    {
+      "other": "围绕",
+      "pinyin": "wéi rào",
+      "english": "to revolve around"
+    },
+    {
+      "other": "唯一",
+      "pinyin": "wéi yī",
+      "english": "only"
+    },
+    {
+      "other": "尾巴",
+      "pinyin": "wěi ba",
+      "english": "tail"
+    },
+    {
+      "other": "伟大",
+      "pinyin": "wěi dà",
+      "english": "great"
+    },
+    {
+      "other": "委屈",
+      "pinyin": "wěi qu",
+      "english": "to feel wronged"
+    },
+    {
+      "other": "委托",
+      "pinyin": "wěi tuō",
+      "english": "to entrust"
+    },
+    {
+      "other": "胃",
+      "pinyin": "wèi",
+      "english": "stomach"
+    },
+    {
+      "other": "位置",
+      "pinyin": "wèi zhi",
+      "english": "position"
+    },
+    {
+      "other": "未必",
+      "pinyin": "wèi bì",
+      "english": "not necessarily"
+    },
+    {
+      "other": "未来",
+      "pinyin": "wèi lái",
+      "english": "future"
+    },
+    {
+      "other": "卫生间",
+      "pinyin": "wèi shēng jiān",
+      "english": "bathroom"
+    },
+    {
+      "other": "温暖",
+      "pinyin": "wēn nuǎn",
+      "english": "warm"
+    },
+    {
+      "other": "温柔",
+      "pinyin": "wēn róu",
+      "english": "gentle and soft"
+    },
+    {
+      "other": "闻",
+      "pinyin": "wén",
+      "english": "to hear"
+    },
+    {
+      "other": "文件",
+      "pinyin": "wén jiàn",
+      "english": "document"
+    },
+    {
+      "other": "文具",
+      "pinyin": "wén jù",
+      "english": "stationery"
+    },
+    {
+      "other": "文明",
+      "pinyin": "wén míng",
+      "english": "civilized"
+    },
+    {
+      "other": "文学",
+      "pinyin": "wén xué",
+      "english": "literature"
+    },
+    {
+      "other": "吻",
+      "pinyin": "wěn",
+      "english": "kiss"
+    },
+    {
+      "other": "稳定",
+      "pinyin": "wěn dìng",
+      "english": "steady"
+    },
+    {
+      "other": "问候",
+      "pinyin": "wèn hòu",
+      "english": "to give one's respects"
+    },
+    {
+      "other": "卧室",
+      "pinyin": "wò shì",
+      "english": "bedroom"
+    },
+    {
+      "other": "屋子",
+      "pinyin": "wū zi",
+      "english": "house"
+    },
+    {
+      "other": "无奈",
+      "pinyin": "wú nài",
+      "english": "helpless"
+    },
+    {
+      "other": "无数",
+      "pinyin": "wú shù",
+      "english": "countless"
+    },
+    {
+      "other": "武器",
+      "pinyin": "wǔ qì",
+      "english": "weapon"
+    },
+    {
+      "other": "武术",
+      "pinyin": "wǔ shù",
+      "english": "military skill or technique (in former times)"
+    },
+    {
+      "other": "雾",
+      "pinyin": "wù",
+      "english": "fog"
+    },
+    {
+      "other": "物理",
+      "pinyin": "wù lǐ",
+      "english": "physics"
+    },
+    {
+      "other": "物质",
+      "pinyin": "wù zhì",
+      "english": "matter"
+    },
+    {
+      "other": "吸收",
+      "pinyin": "xī shōu",
+      "english": "to absorb"
+    },
+    {
+      "other": "系",
+      "pinyin": "xì",
+      "english": "to connect"
+    },
+    {
+      "other": "系统",
+      "pinyin": "xì tǒng",
+      "english": "system"
+    },
+    {
+      "other": "细节",
+      "pinyin": "xì jié",
+      "english": "details"
+    },
+    {
+      "other": "戏剧",
+      "pinyin": "xì jù",
+      "english": "drama"
+    },
+    {
+      "other": "瞎",
+      "pinyin": "xiā",
+      "english": "blind"
+    },
+    {
+      "other": "吓",
+      "pinyin": "xià",
+      "english": "to frighten"
+    },
+    {
+      "other": "下载",
+      "pinyin": "xià zǎi",
+      "english": "to download"
+    },
+    {
+      "other": "鲜艳",
+      "pinyin": "xiān yàn",
+      "english": "bright-colored"
+    },
+    {
+      "other": "显得",
+      "pinyin": "xiǎn de",
+      "english": "to seem"
+    },
+    {
+      "other": "显然",
+      "pinyin": "xiǎn rán",
+      "english": "clear"
+    },
+    {
+      "other": "显示",
+      "pinyin": "xiǎn shì",
+      "english": "to show"
+    },
+    {
+      "other": "县",
+      "pinyin": "xiàn",
+      "english": "county"
+    },
+    {
+      "other": "现金",
+      "pinyin": "xiàn jīn",
+      "english": "cash"
+    },
+    {
+      "other": "现实",
+      "pinyin": "xiàn shí",
+      "english": "reality"
+    },
+    {
+      "other": "现象",
+      "pinyin": "xiàn xiàng",
+      "english": "appearance"
+    },
+    {
+      "other": "相处",
+      "pinyin": "xiāng chǔ",
+      "english": "to be in contact with"
+    },
+    {
+      "other": "相当",
+      "pinyin": "xiāng dāng",
+      "english": "equivalent to"
+    },
+    {
+      "other": "相对",
+      "pinyin": "xiāng duì",
+      "english": "relatively"
+    },
+    {
+      "other": "相关",
+      "pinyin": "xiāng guān",
+      "english": "to be interrelated"
+    },
+    {
+      "other": "相似",
+      "pinyin": "xiāng sì",
+      "english": "to resemble"
+    },
+    {
+      "other": "想念",
+      "pinyin": "xiǎng niàn",
+      "english": "to miss"
+    },
+    {
+      "other": "想象",
+      "pinyin": "xiǎng xiàng",
+      "english": "to imagine"
+    },
+    {
+      "other": "享受",
+      "pinyin": "xiǎng shòu",
+      "english": "to enjoy"
+    },
+    {
+      "other": "项",
+      "pinyin": "xiàng",
+      "english": "back of neck"
+    },
+    {
+      "other": "项链",
+      "pinyin": "xiàng liàn",
+      "english": "necklace"
+    },
+    {
+      "other": "项目",
+      "pinyin": "xiàng mù",
+      "english": "item"
+    },
+    {
+      "other": "橡皮",
+      "pinyin": "xiàng pí",
+      "english": "rubber"
+    },
+    {
+      "other": "象棋",
+      "pinyin": "xiàng qí",
+      "english": "Chinese chess"
+    },
+    {
+      "other": "象征",
+      "pinyin": "xiàng zhēng",
+      "english": "emblem"
+    },
+    {
+      "other": "消费",
+      "pinyin": "xiāo fèi",
+      "english": "to consume"
+    },
+    {
+      "other": "消化",
+      "pinyin": "xiāo huà",
+      "english": "to digest"
+    },
+    {
+      "other": "消灭",
+      "pinyin": "xiāo miè",
+      "english": "to put an end to"
+    },
+    {
+      "other": "消失",
+      "pinyin": "xiāo shī",
+      "english": "to disappear"
+    },
+    {
+      "other": "销售",
+      "pinyin": "xiāo shòu",
+      "english": "to sell"
+    },
+    {
+      "other": "小吃",
+      "pinyin": "xiǎo chī",
+      "english": "snack"
+    },
+    {
+      "other": "小伙子",
+      "pinyin": "xiǎo huǒ zi",
+      "english": "young man"
+    },
+    {
+      "other": "小麦",
+      "pinyin": "xiǎo mài",
+      "english": "wheat"
+    },
+    {
+      "other": "小气",
+      "pinyin": "xiǎo qì",
+      "english": "stingy"
+    },
+    {
+      "other": "小偷",
+      "pinyin": "xiǎo tōu",
+      "english": "thief"
+    },
+    {
+      "other": "效率",
+      "pinyin": "xiào lǜ",
+      "english": "efficiency"
+    },
+    {
+      "other": "孝顺",
+      "pinyin": "xiào shùn",
+      "english": "filial piety"
+    },
+    {
+      "other": "歇",
+      "pinyin": "xiē",
+      "english": "to rest"
+    },
+    {
+      "other": "斜",
+      "pinyin": "xié",
+      "english": "inclined"
+    },
+    {
+      "other": "协调",
+      "pinyin": "xié tiáo",
+      "english": "to coordinate"
+    },
+    {
+      "other": "心理",
+      "pinyin": "xīn lǐ",
+      "english": "mental"
+    },
+    {
+      "other": "心脏",
+      "pinyin": "xīn zàng",
+      "english": "heart"
+    },
+    {
+      "other": "欣赏",
+      "pinyin": "xīn shǎng",
+      "english": "to appreciate"
+    },
+    {
+      "other": "信封",
+      "pinyin": "xìn fēng",
+      "english": "envelope"
+    },
+    {
+      "other": "信号",
+      "pinyin": "xìn hào",
+      "english": "signal"
+    },
+    {
+      "other": "信息",
+      "pinyin": "xìn xī",
+      "english": "information"
+    },
+    {
+      "other": "行动",
+      "pinyin": "xíng dòng",
+      "english": "operation"
+    },
+    {
+      "other": "行人",
+      "pinyin": "xíng rén",
+      "english": "pedestrian"
+    },
+    {
+      "other": "行为",
+      "pinyin": "xíng wéi",
+      "english": "action"
+    },
+    {
+      "other": "形成",
+      "pinyin": "xíng chéng",
+      "english": "to form"
+    },
+    {
+      "other": "形容",
+      "pinyin": "xíng róng",
+      "english": "to describe"
+    },
+    {
+      "other": "形式",
+      "pinyin": "xíng shì",
+      "english": "form"
+    },
+    {
+      "other": "形势",
+      "pinyin": "xíng shì",
+      "english": "circumstances"
+    },
+    {
+      "other": "形象",
+      "pinyin": "xíng xiàng",
+      "english": "image"
+    },
+    {
+      "other": "形状",
+      "pinyin": "xíng zhuàng",
+      "english": "form"
+    },
+    {
+      "other": "性质",
+      "pinyin": "xìng zhì",
+      "english": "nature"
+    },
+    {
+      "other": "幸亏",
+      "pinyin": "xìng kuī",
+      "english": "fortunately"
+    },
+    {
+      "other": "幸运",
+      "pinyin": "xìng yùn",
+      "english": "fortunate"
+    },
+    {
+      "other": "胸",
+      "pinyin": "xiōng",
+      "english": "chest"
+    },
+    {
+      "other": "兄弟",
+      "pinyin": "xiōng dì",
+      "english": "brothers"
+    },
+    {
+      "other": "雄伟",
+      "pinyin": "xióng wěi",
+      "english": "grand"
+    },
+    {
+      "other": "修改",
+      "pinyin": "xiū gǎi",
+      "english": "to amend"
+    },
+    {
+      "other": "休闲",
+      "pinyin": "xiū xián",
+      "english": "leisure"
+    },
+    {
+      "other": "虚心",
+      "pinyin": "xū xīn",
+      "english": "modest"
+    },
+    {
+      "other": "叙述",
+      "pinyin": "xù shù",
+      "english": "to relate (a story or information)"
+    },
+    {
+      "other": "宣布",
+      "pinyin": "xuān bù",
+      "english": "to declare"
+    },
+    {
+      "other": "宣传",
+      "pinyin": "xuān chuán",
+      "english": "to disseminate"
+    },
+    {
+      "other": "选举",
+      "pinyin": "xuǎn jǔ",
+      "english": "to elect"
+    },
+    {
+      "other": "学期",
+      "pinyin": "xué qī",
+      "english": "term"
+    },
+    {
+      "other": "学术",
+      "pinyin": "xué shù",
+      "english": "learning"
+    },
+    {
+      "other": "学问",
+      "pinyin": "xué wèn",
+      "english": "learning"
+    },
+    {
+      "other": "寻找",
+      "pinyin": "xún zhǎo",
+      "english": "to seek"
+    },
+    {
+      "other": "询问",
+      "pinyin": "xún wèn",
+      "english": "to inquire"
+    },
+    {
+      "other": "训练",
+      "pinyin": "xùn liàn",
+      "english": "to train"
+    },
+    {
+      "other": "迅速",
+      "pinyin": "xùn sù",
+      "english": "rapid"
+    },
+    {
+      "other": "延长",
+      "pinyin": "yán cháng",
+      "english": "to prolong"
+    },
+    {
+      "other": "严肃",
+      "pinyin": "yán sù",
+      "english": "solemn"
+    },
+    {
+      "other": "宴会",
+      "pinyin": "yàn huì",
+      "english": "banquet"
+    },
+    {
+      "other": "阳台",
+      "pinyin": "yáng tái",
+      "english": "balcony"
+    },
+    {
+      "other": "痒",
+      "pinyin": "yǎng",
+      "english": "to itch"
+    },
+    {
+      "other": "样式",
+      "pinyin": "yàng shì",
+      "english": "type"
+    },
+    {
+      "other": "腰",
+      "pinyin": "yāo",
+      "english": "waist"
+    },
+    {
+      "other": "摇",
+      "pinyin": "yáo",
+      "english": "to shake"
+    },
+    {
+      "other": "咬",
+      "pinyin": "yǎo",
+      "english": "to bite"
+    },
+    {
+      "other": "要不",
+      "pinyin": "yào bù",
+      "english": "otherwise"
+    },
+    {
+      "other": "要是",
+      "pinyin": "yào shi",
+      "english": "if"
+    },
+    {
+      "other": "夜",
+      "pinyin": "yè",
+      "english": "night"
+    },
+    {
+      "other": "液体",
+      "pinyin": "yè tǐ",
+      "english": "liquid"
+    },
+    {
+      "other": "业务",
+      "pinyin": "yè wù",
+      "english": "business"
+    },
+    {
+      "other": "业余",
+      "pinyin": "yè yú",
+      "english": "spare time"
+    },
+    {
+      "other": "依然",
+      "pinyin": "yī rán",
+      "english": "still"
+    },
+    {
+      "other": "一辈子",
+      "pinyin": "yī bèi zi",
+      "english": "(for) a lifetime"
+    },
+    {
+      "other": "一旦",
+      "pinyin": "yī dàn",
+      "english": "in case (sth happens)"
+    },
+    {
+      "other": "一路",
+      "pinyin": "yī lù",
+      "english": "the whole journey"
+    },
+    {
+      "other": "一致",
+      "pinyin": "yī zhì",
+      "english": "unanimous"
+    },
+    {
+      "other": "遗憾",
+      "pinyin": "yí hàn",
+      "english": "regret"
+    },
+    {
+      "other": "移动",
+      "pinyin": "yí dòng",
+      "english": "to move"
+    },
+    {
+      "other": "移民",
+      "pinyin": "yí mín",
+      "english": "to immigrate"
+    },
+    {
+      "other": "疑问",
+      "pinyin": "yí wèn",
+      "english": "question"
+    },
+    {
+      "other": "乙",
+      "pinyin": "yǐ",
+      "english": "second of 10 heavenly stems 十天干"
+    },
+    {
+      "other": "以及",
+      "pinyin": "yǐ jí",
+      "english": "as well as"
+    },
+    {
+      "other": "以来",
+      "pinyin": "yǐ lái",
+      "english": "since (a previous event)"
+    },
+    {
+      "other": "意外",
+      "pinyin": "yì wài",
+      "english": "unexpected"
+    },
+    {
+      "other": "意义",
+      "pinyin": "yì yì",
+      "english": "sense"
+    },
+    {
+      "other": "议论",
+      "pinyin": "yì lùn",
+      "english": "to comment"
+    },
+    {
+      "other": "义务",
+      "pinyin": "yì wù",
+      "english": "duty"
+    },
+    {
+      "other": "因而",
+      "pinyin": "yīn ér",
+      "english": "therefore"
+    },
+    {
+      "other": "因素",
+      "pinyin": "yīn sù",
+      "english": "element"
+    },
+    {
+      "other": "银",
+      "pinyin": "yín",
+      "english": "silver"
+    },
+    {
+      "other": "英俊",
+      "pinyin": "yīng jùn",
+      "english": "handsome"
+    },
+    {
+      "other": "英雄",
+      "pinyin": "yīng xióng",
+      "english": "hero"
+    },
+    {
+      "other": "迎接",
+      "pinyin": "yíng jiē",
+      "english": "to meet"
+    },
+    {
+      "other": "营养",
+      "pinyin": "yíng yǎng",
+      "english": "nutrition"
+    },
+    {
+      "other": "营业",
+      "pinyin": "yíng yè",
+      "english": "to do business"
+    },
+    {
+      "other": "影子",
+      "pinyin": "yǐng zi",
+      "english": "shadow"
+    },
+    {
+      "other": "硬币",
+      "pinyin": "yìng bì",
+      "english": "coin"
+    },
+    {
+      "other": "硬件",
+      "pinyin": "yìng jiàn",
+      "english": "hardware"
+    },
+    {
+      "other": "应付",
+      "pinyin": "yìng fu",
+      "english": "to deal with"
+    },
+    {
+      "other": "应聘",
+      "pinyin": "yìng pìn",
+      "english": "to accept a job offer"
+    },
+    {
+      "other": "应用",
+      "pinyin": "yìng yòng",
+      "english": "to use"
+    },
+    {
+      "other": "拥抱",
+      "pinyin": "yōng bào",
+      "english": "to embrace"
+    },
+    {
+      "other": "拥挤",
+      "pinyin": "yōng jǐ",
+      "english": "crowded"
+    },
+    {
+      "other": "勇气",
+      "pinyin": "yǒng qì",
+      "english": "courage"
+    },
+    {
+      "other": "用途",
+      "pinyin": "yòng tú",
+      "english": "use"
+    },
+    {
+      "other": "优惠",
+      "pinyin": "yōu huì",
+      "english": "preferential"
+    },
+    {
+      "other": "优美",
+      "pinyin": "yōu měi",
+      "english": "graceful"
+    },
+    {
+      "other": "优势",
+      "pinyin": "yōu shì",
+      "english": "superiority"
+    },
+    {
+      "other": "悠久",
+      "pinyin": "yōu jiǔ",
+      "english": "established"
+    },
+    {
+      "other": "邮局",
+      "pinyin": "yóu jú",
+      "english": "post office"
+    },
+    {
+      "other": "游览",
+      "pinyin": "yóu lǎn",
+      "english": "to go sight-seeing"
+    },
+    {
+      "other": "油炸",
+      "pinyin": "yóu zhá",
+      "english": "to deep fry"
+    },
+    {
+      "other": "犹豫",
+      "pinyin": "yóu yù",
+      "english": "to hesitate"
+    },
+    {
+      "other": "有利",
+      "pinyin": "yǒu lì",
+      "english": "advantageous"
+    },
+    {
+      "other": "幼儿园",
+      "pinyin": "yòu ér yuán",
+      "english": "kindergarten"
+    },
+    {
+      "other": "娱乐",
+      "pinyin": "yú lè",
+      "english": "to entertain"
+    },
+    {
+      "other": "与其",
+      "pinyin": "yǔ qí",
+      "english": "rather than..."
+    },
+    {
+      "other": "语气",
+      "pinyin": "yǔ qì",
+      "english": "tone"
+    },
+    {
+      "other": "宇宙",
+      "pinyin": "yǔ zhòu",
+      "english": "universe"
+    },
+    {
+      "other": "预报",
+      "pinyin": "yù bào",
+      "english": "forecast"
+    },
+    {
+      "other": "预订",
+      "pinyin": "yù dìng",
+      "english": "to place an order"
+    },
+    {
+      "other": "预防",
+      "pinyin": "yù fáng",
+      "english": "to prevent"
+    },
+    {
+      "other": "玉米",
+      "pinyin": "yù mǐ",
+      "english": "corn"
+    },
+    {
+      "other": "元旦",
+      "pinyin": "yuán dàn",
+      "english": "New Year's Day"
+    },
+    {
+      "other": "原料",
+      "pinyin": "yuán liào",
+      "english": "raw material"
+    },
+    {
+      "other": "原则",
+      "pinyin": "yuán zé",
+      "english": "principle"
+    },
+    {
+      "other": "缘故",
+      "pinyin": "yuán gù",
+      "english": "reason"
+    },
+    {
+      "other": "愿望",
+      "pinyin": "yuàn wàng",
+      "english": "desire"
+    },
+    {
+      "other": "晕",
+      "pinyin": "yūn",
+      "english": "confused"
+    },
+    {
+      "other": "运气",
+      "pinyin": "yùn qi",
+      "english": "luck (good or bad)"
+    },
+    {
+      "other": "运输",
+      "pinyin": "yùn shū",
+      "english": "transport"
+    },
+    {
+      "other": "运用",
+      "pinyin": "yùn yòng",
+      "english": "to use"
+    },
+    {
+      "other": "灾害",
+      "pinyin": "zāi hài",
+      "english": "disastrous damage"
+    },
+    {
+      "other": "再三",
+      "pinyin": "zài sān",
+      "english": "over and over again"
+    },
+    {
+      "other": "赞成",
+      "pinyin": "zàn chéng",
+      "english": "to approve"
+    },
+    {
+      "other": "赞美",
+      "pinyin": "zàn měi",
+      "english": "to admire"
+    },
+    {
+      "other": "糟糕",
+      "pinyin": "zāo gāo",
+      "english": "too bad"
+    },
+    {
+      "other": "造成",
+      "pinyin": "zào chéng",
+      "english": "to bring about"
+    },
+    {
+      "other": "则",
+      "pinyin": "zé",
+      "english": "conjunction used to express contrast with a previous sentence or clause"
+    },
+    {
+      "other": "责备",
+      "pinyin": "zé bèi",
+      "english": "to blame"
+    },
+    {
+      "other": "摘",
+      "pinyin": "zhāi",
+      "english": "to take"
+    },
+    {
+      "other": "粘贴",
+      "pinyin": "zhān tiē",
+      "english": "to stick"
+    },
+    {
+      "other": "展开",
+      "pinyin": "zhǎn kāi",
+      "english": "to unfold"
+    },
+    {
+      "other": "展览",
+      "pinyin": "zhǎn lǎn",
+      "english": "to put on display"
+    },
+    {
+      "other": "战争",
+      "pinyin": "zhàn zhēng",
+      "english": "war"
+    },
+    {
+      "other": "占线",
+      "pinyin": "zhàn xiàn",
+      "english": "busy (telephone line)"
+    },
+    {
+      "other": "涨",
+      "pinyin": "zhǎng",
+      "english": "to rise (of prices"
+    },
+    {
+      "other": "掌握",
+      "pinyin": "zhǎng wò",
+      "english": "to grasp (often fig.)"
+    },
+    {
+      "other": "账户",
+      "pinyin": "zhàng hù",
+      "english": "bank account"
+    },
+    {
+      "other": "招待",
+      "pinyin": "zhāo dài",
+      "english": "to receive (guests)"
+    },
+    {
+      "other": "着凉",
+      "pinyin": "zháo liáng",
+      "english": "to catch cold"
+    },
+    {
+      "other": "照常",
+      "pinyin": "zhào cháng",
+      "english": "(business etc) as usual"
+    },
+    {
+      "other": "召开",
+      "pinyin": "zhào kāi",
+      "english": "to convene (a conference or meeting)"
+    },
+    {
+      "other": "哲学",
+      "pinyin": "zhé xué",
+      "english": "philosophy"
+    },
+    {
+      "other": "真理",
+      "pinyin": "zhēn lǐ",
+      "english": "truth"
+    },
+    {
+      "other": "真实",
+      "pinyin": "zhēn shí",
+      "english": "true"
+    },
+    {
+      "other": "针对",
+      "pinyin": "zhēn duì",
+      "english": "to be directed against"
+    },
+    {
+      "other": "珍惜",
+      "pinyin": "zhēn xī",
+      "english": "to treasure"
+    },
+    {
+      "other": "诊断",
+      "pinyin": "zhěn duàn",
+      "english": "diagnosis"
+    },
+    {
+      "other": "枕头",
+      "pinyin": "zhěn tou",
+      "english": "pillow"
+    },
+    {
+      "other": "阵",
+      "pinyin": "zhèn",
+      "english": "disposition of troops"
+    },
+    {
+      "other": "振动",
+      "pinyin": "zhèn dòng",
+      "english": "vibration"
+    },
+    {
+      "other": "睁",
+      "pinyin": "zhēng",
+      "english": "to open (one's eyes)"
+    },
+    {
+      "other": "争论",
+      "pinyin": "zhēng lùn",
+      "english": "to argue"
+    },
+    {
+      "other": "争取",
+      "pinyin": "zhēng qǔ",
+      "english": "to fight for"
+    },
+    {
+      "other": "征求",
+      "pinyin": "zhēng qiú",
+      "english": "to solicit"
+    },
+    {
+      "other": "整个",
+      "pinyin": "zhěng gè",
+      "english": "whole"
+    },
+    {
+      "other": "整体",
+      "pinyin": "zhěng tǐ",
+      "english": "whole entity"
+    },
+    {
+      "other": "正",
+      "pinyin": "zhèng",
+      "english": "just (right)"
+    },
+    {
+      "other": "政策",
+      "pinyin": "zhèng cè",
+      "english": "policy"
+    },
+    {
+      "other": "政府",
+      "pinyin": "zhèng fǔ",
+      "english": "government"
+    },
+    {
+      "other": "政治",
+      "pinyin": "zhèng zhì",
+      "english": "politics"
+    },
+    {
+      "other": "证件",
+      "pinyin": "zhèng jiàn",
+      "english": "paperwork"
+    },
+    {
+      "other": "证据",
+      "pinyin": "zhèng jù",
+      "english": "evidence"
+    },
+    {
+      "other": "挣钱",
+      "pinyin": "zhèng qián",
+      "english": "to make money"
+    },
+    {
+      "other": "支",
+      "pinyin": "zhī",
+      "english": "to support"
+    },
+    {
+      "other": "支票",
+      "pinyin": "zhī piào",
+      "english": "check (bank)"
+    },
+    {
+      "other": "直",
+      "pinyin": "zhí",
+      "english": "straight"
+    },
+    {
+      "other": "执行",
+      "pinyin": "zhí xíng",
+      "english": "to implement"
+    },
+    {
+      "other": "执照",
+      "pinyin": "zhí zhào",
+      "english": "a license"
+    },
+    {
+      "other": "指导",
+      "pinyin": "zhǐ dǎo",
+      "english": "to guide"
+    },
+    {
+      "other": "指挥",
+      "pinyin": "zhǐ huī",
+      "english": "to conduct"
+    },
+    {
+      "other": "制定",
+      "pinyin": "zhì dìng",
+      "english": "to draw up"
+    },
+    {
+      "other": "制度",
+      "pinyin": "zhì dù",
+      "english": "system (e.g. political"
+    },
+    {
+      "other": "制作",
+      "pinyin": "zhì zuò",
+      "english": "to make"
+    },
+    {
+      "other": "智慧",
+      "pinyin": "zhì huì",
+      "english": "wisdom"
+    },
+    {
+      "other": "至今",
+      "pinyin": "zhì jīn",
+      "english": "so far"
+    },
+    {
+      "other": "至于",
+      "pinyin": "zhì yú",
+      "english": "as for"
+    },
+    {
+      "other": "治疗",
+      "pinyin": "zhì liáo",
+      "english": "to treat"
+    },
+    {
+      "other": "志愿者",
+      "pinyin": "zhì yuàn zhě",
+      "english": "volunteer"
+    },
+    {
+      "other": "秩序",
+      "pinyin": "zhì xù",
+      "english": "order (orderly)"
+    },
+    {
+      "other": "钟",
+      "pinyin": "zhōng",
+      "english": "clock"
+    },
+    {
+      "other": "中介",
+      "pinyin": "zhōng jiè",
+      "english": "to act as intermediary"
+    },
+    {
+      "other": "中心",
+      "pinyin": "zhōng xīn",
+      "english": "center"
+    },
+    {
+      "other": "中旬",
+      "pinyin": "zhōng xún",
+      "english": "middle third of a month"
+    },
+    {
+      "other": "重",
+      "pinyin": "zhòng",
+      "english": "heavy"
+    },
+    {
+      "other": "重量",
+      "pinyin": "zhòng liàng",
+      "english": "weight"
+    },
+    {
+      "other": "周到",
+      "pinyin": "zhōu dao",
+      "english": "thoughtful"
+    },
+    {
+      "other": "逐步",
+      "pinyin": "zhú bù",
+      "english": "progressively"
+    },
+    {
+      "other": "竹子",
+      "pinyin": "zhú zi",
+      "english": "bamboo"
+    },
+    {
+      "other": "煮",
+      "pinyin": "zhǔ",
+      "english": "to cook"
+    },
+    {
+      "other": "主持",
+      "pinyin": "zhǔ chí",
+      "english": "to take charge of"
+    },
+    {
+      "other": "主观",
+      "pinyin": "zhǔ guān",
+      "english": "subjective"
+    },
+    {
+      "other": "主人",
+      "pinyin": "zhǔ rén",
+      "english": "master"
+    },
+    {
+      "other": "主席",
+      "pinyin": "zhǔ xí",
+      "english": "chairperson"
+    },
+    {
+      "other": "主张",
+      "pinyin": "zhǔ zhāng",
+      "english": "to advocate"
+    },
+    {
+      "other": "嘱咐",
+      "pinyin": "zhǔ fù",
+      "english": "to tell"
+    },
+    {
+      "other": "祝福",
+      "pinyin": "zhù fú",
+      "english": "blessings"
+    },
+    {
+      "other": "注册",
+      "pinyin": "zhù cè",
+      "english": "to register"
+    },
+    {
+      "other": "抓紧",
+      "pinyin": "zhuā jǐn",
+      "english": "to grasp firmly"
+    },
+    {
+      "other": "专家",
+      "pinyin": "zhuān jiā",
+      "english": "expert"
+    },
+    {
+      "other": "专心",
+      "pinyin": "zhuān xīn",
+      "english": "to concentrate"
+    },
+    {
+      "other": "转变",
+      "pinyin": "zhuǎn biàn",
+      "english": "to change"
+    },
+    {
+      "other": "转告",
+      "pinyin": "zhuǎn gào",
+      "english": "to pass on"
+    },
+    {
+      "other": "装",
+      "pinyin": "zhuāng",
+      "english": "adornment"
+    },
+    {
+      "other": "装饰",
+      "pinyin": "zhuāng shì",
+      "english": "to decorate"
+    },
+    {
+      "other": "状况",
+      "pinyin": "zhuàng kuàng",
+      "english": "condition"
+    },
+    {
+      "other": "状态",
+      "pinyin": "zhuàng tài",
+      "english": "state of affairs"
+    },
+    {
+      "other": "追求",
+      "pinyin": "zhuī qiú",
+      "english": "to pursue (a goal etc) stubbornly"
+    },
+    {
+      "other": "资格",
+      "pinyin": "zī gé",
+      "english": "qualifications"
+    },
+    {
+      "other": "资金",
+      "pinyin": "zī jīn",
+      "english": "funds"
+    },
+    {
+      "other": "资料",
+      "pinyin": "zī liào",
+      "english": "material"
+    },
+    {
+      "other": "资源",
+      "pinyin": "zī yuán",
+      "english": "natural resource (such as water or minerals)"
+    },
+    {
+      "other": "姿势",
+      "pinyin": "zī shì",
+      "english": "posture"
+    },
+    {
+      "other": "咨询",
+      "pinyin": "zī xún",
+      "english": "to consult"
+    },
+    {
+      "other": "紫",
+      "pinyin": "zǐ",
+      "english": "purple"
+    },
+    {
+      "other": "字幕",
+      "pinyin": "zì mù",
+      "english": "caption"
+    },
+    {
+      "other": "自从",
+      "pinyin": "zì cóng",
+      "english": "since (a time)"
+    },
+    {
+      "other": "自动",
+      "pinyin": "zì dòng",
+      "english": "automatic"
+    },
+    {
+      "other": "自豪",
+      "pinyin": "zì háo",
+      "english": "(feel a sense of) pride"
+    },
+    {
+      "other": "自觉",
+      "pinyin": "zì jué",
+      "english": "conscious"
+    },
+    {
+      "other": "自私",
+      "pinyin": "zì sī",
+      "english": "selfish"
+    },
+    {
+      "other": "自信",
+      "pinyin": "zì xìn",
+      "english": "to have confidence in oneself"
+    },
+    {
+      "other": "自由",
+      "pinyin": "zì yóu",
+      "english": "freedom"
+    },
+    {
+      "other": "自愿",
+      "pinyin": "zì yuàn",
+      "english": "voluntary"
+    },
+    {
+      "other": "综合",
+      "pinyin": "zōng hé",
+      "english": "comprehensive"
+    },
+    {
+      "other": "宗教",
+      "pinyin": "zōng jiào",
+      "english": "religion"
+    },
+    {
+      "other": "总裁",
+      "pinyin": "zǒng cái",
+      "english": "chairman"
+    },
+    {
+      "other": "总共",
+      "pinyin": "zǒng gòng",
+      "english": "altogether"
+    },
+    {
+      "other": "总理",
+      "pinyin": "zǒng lǐ",
+      "english": "premier"
+    },
+    {
+      "other": "总算",
+      "pinyin": "zǒng suàn",
+      "english": "at long last"
+    },
+    {
+      "other": "总统",
+      "pinyin": "zǒng tǒng",
+      "english": "president (of a country)"
+    },
+    {
+      "other": "总之",
+      "pinyin": "zǒng zhī",
+      "english": "in a word"
+    },
+    {
+      "other": "组合",
+      "pinyin": "zǔ hé",
+      "english": "to assemble"
+    },
+    {
+      "other": "阻止",
+      "pinyin": "zǔ zhǐ",
+      "english": "to prevent"
+    },
+    {
+      "other": "祖国",
+      "pinyin": "zǔ guó",
+      "english": "ancestral land CL:個|个[gè]"
+    },
+    {
+      "other": "祖先",
+      "pinyin": "zǔ xiān",
+      "english": "ancestor"
+    },
+    {
+      "other": "醉",
+      "pinyin": "zuì",
+      "english": "intoxicated"
+    },
+    {
+      "other": "最初",
+      "pinyin": "zuì chū",
+      "english": "first"
+    },
+    {
+      "other": "罪犯",
+      "pinyin": "zuì fàn",
+      "english": "criminal"
+    },
+    {
+      "other": "尊敬",
+      "pinyin": "zūn jìng",
+      "english": "respect"
+    },
+    {
+      "other": "遵守",
+      "pinyin": "zūn shǒu",
+      "english": "to comply with"
+    },
+    {
+      "other": "作品",
+      "pinyin": "zuò pǐn",
+      "english": "work (of art)"
+    },
+    {
+      "other": "作为",
+      "pinyin": "zuò wéi",
+      "english": "one's conduct"
+    },
+    {
+      "other": "作文",
+      "pinyin": "zuò wén",
+      "english": "to write an essay"
+    }
+  ]

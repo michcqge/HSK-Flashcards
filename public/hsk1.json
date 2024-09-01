@@ -1,0 +1,577 @@
+[
+  {
+    "other": "爱",
+    "pinyin": "ài",
+    "english": "to love"
+  },
+  {
+    "other": "八",
+    "pinyin": "bā",
+    "english": "eight"
+  },
+  {
+    "other": "爸爸",
+    "pinyin": "bà ba",
+    "english": "(informal) father"
+  },
+  {
+    "other": "杯子",
+    "pinyin": "bēi zi",
+    "english": "cup"
+  },
+  {
+    "other": "北京",
+    "pinyin": "Běi jīng",
+    "english": "Beijing"
+  },
+  {
+    "other": "本",
+    "pinyin": "běn",
+    "english": "roots or stems of plants"
+  },
+  {
+    "other": "不客气",
+    "pinyin": "bù kè qi",
+    "english": "you're welcome"
+  },
+  {
+    "other": "不",
+    "pinyin": "bù",
+    "english": "(negative prefix)"
+  },
+  {
+    "other": "菜",
+    "pinyin": "cài",
+    "english": "dish (type of food)"
+  },
+  {
+    "other": "茶",
+    "pinyin": "chá",
+    "english": "tea"
+  },
+  {
+    "other": "吃",
+    "pinyin": "chī",
+    "english": "to eat"
+  },
+  {
+    "other": "出租车",
+    "pinyin": "chū zū chē",
+    "english": "taxi"
+  },
+  {
+    "other": "打电话",
+    "pinyin": "dǎ diàn huà",
+    "english": "to make a telephone call"
+  },
+  {
+    "other": "大",
+    "pinyin": "dà",
+    "english": "big"
+  },
+  {
+    "other": "的",
+    "pinyin": "de",
+    "english": "of"
+  },
+  {
+    "other": "点",
+    "pinyin": "diǎn",
+    "english": "point"
+  },
+  {
+    "other": "电脑",
+    "pinyin": "diàn nǎo",
+    "english": "computer"
+  },
+  {
+    "other": "电视",
+    "pinyin": "diàn shì",
+    "english": "television"
+  },
+  {
+    "other": "电影",
+    "pinyin": "diàn yǐng",
+    "english": "movie"
+  },
+  {
+    "other": "东西",
+    "pinyin": "dōng xi",
+    "english": "thing"
+  },
+  {
+    "other": "都",
+    "pinyin": "dōu",
+    "english": "all"
+  },
+  {
+    "other": "读",
+    "pinyin": "dú",
+    "english": "to read"
+  },
+  {
+    "other": "对不起",
+    "pinyin": "duì bu qǐ",
+    "english": "unworthy"
+  },
+  {
+    "other": "多",
+    "pinyin": "duō",
+    "english": "many"
+  },
+  {
+    "other": "多少",
+    "pinyin": "duō shao",
+    "english": "how much"
+  },
+  {
+    "other": "儿子",
+    "pinyin": "ér zi",
+    "english": "son"
+  },
+  {
+    "other": "二",
+    "pinyin": "èr",
+    "english": "two"
+  },
+  {
+    "other": "饭馆",
+    "pinyin": "fàn guǎn",
+    "english": "restaurant"
+  },
+  {
+    "other": "飞机",
+    "pinyin": "fēi jī",
+    "english": "airplane"
+  },
+  {
+    "other": "分钟",
+    "pinyin": "fēn zhōng",
+    "english": "minute"
+  },
+  {
+    "other": "高兴",
+    "pinyin": "gāo xìng",
+    "english": "happy"
+  },
+  {
+    "other": "个",
+    "pinyin": "gè",
+    "english": "variant of 個|个[gè]"
+  },
+  {
+    "other": "工作",
+    "pinyin": "gōng zuò",
+    "english": "to work"
+  },
+  {
+    "other": "狗",
+    "pinyin": "gǒu",
+    "english": "dog"
+  },
+  {
+    "other": "汉语",
+    "pinyin": "Hàn yǔ",
+    "english": "other language"
+  },
+  {
+    "other": "好",
+    "pinyin": "hǎo",
+    "english": "good"
+  },
+  {
+    "other": "喝",
+    "pinyin": "hē",
+    "english": "to drink"
+  },
+  {
+    "other": "和",
+    "pinyin": "hé",
+    "english": "and"
+  },
+  {
+    "other": "很",
+    "pinyin": "hěn",
+    "english": "(adverb of degree)"
+  },
+  {
+    "other": "后面",
+    "pinyin": "hòu mian",
+    "english": "rear"
+  },
+  {
+    "other": "回",
+    "pinyin": "huí",
+    "english": "to curve"
+  },
+  {
+    "other": "会",
+    "pinyin": "huì",
+    "english": "can"
+  },
+  {
+    "other": "火车站",
+    "pinyin": "huǒ chē zhàn",
+    "english": "train station"
+  },
+  {
+    "other": "几",
+    "pinyin": "jǐ",
+    "english": "how much"
+  },
+  {
+    "other": "家",
+    "pinyin": "jiā",
+    "english": "home"
+  },
+  {
+    "other": "叫",
+    "pinyin": "jiào",
+    "english": "to shout"
+  },
+  {
+    "other": "今天",
+    "pinyin": "jīn tiān",
+    "english": "today"
+  },
+  {
+    "other": "九",
+    "pinyin": "jiǔ",
+    "english": "nine"
+  },
+  {
+    "other": "开",
+    "pinyin": "kāi",
+    "english": "to open"
+  },
+  {
+    "other": "看",
+    "pinyin": "kàn",
+    "english": "to see"
+  },
+  {
+    "other": "看见",
+    "pinyin": "kàn jiàn",
+    "english": "to see"
+  },
+  {
+    "other": "块",
+    "pinyin": "kuài",
+    "english": "lump (of earth)"
+  },
+  {
+    "other": "来",
+    "pinyin": "lái",
+    "english": "to come"
+  },
+  {
+    "other": "老师",
+    "pinyin": "lǎo shī",
+    "english": "teacher"
+  },
+  {
+    "other": "了",
+    "pinyin": "le",
+    "english": "(modal particle intensifying preceding clause)"
+  },
+  {
+    "other": "冷",
+    "pinyin": "lěng",
+    "english": "cold"
+  },
+  {
+    "other": "里",
+    "pinyin": "lǐ",
+    "english": "li (other mile)"
+  },
+  {
+    "other": "零",
+    "pinyin": "líng",
+    "english": "zero"
+  },
+  {
+    "other": "六",
+    "pinyin": "liù",
+    "english": "six"
+  },
+  {
+    "other": "妈妈",
+    "pinyin": "mā ma",
+    "english": "mama"
+  },
+  {
+    "other": "吗",
+    "pinyin": "ma",
+    "english": "(question tag)"
+  },
+  {
+    "other": "买",
+    "pinyin": "mǎi",
+    "english": "to buy"
+  },
+  {
+    "other": "猫",
+    "pinyin": "māo",
+    "english": "cat"
+  },
+  {
+    "other": "没",
+    "pinyin": "méi",
+    "english": "(negative prefix for verbs)"
+  },
+  {
+    "other": "没关系",
+    "pinyin": "méi guān xi",
+    "english": "it doesn't matter"
+  },
+  {
+    "other": "米饭",
+    "pinyin": "mǐ fàn",
+    "english": "(cooked) rice"
+  },
+  {
+    "other": "明天",
+    "pinyin": "míng tiān",
+    "english": "tomorrow"
+  },
+  {
+    "other": "名字",
+    "pinyin": "míng zi",
+    "english": "name (of a person or thing)"
+  },
+  {
+    "other": "哪",
+    "pinyin": "nǎ",
+    "english": "how"
+  },
+  {
+    "other": "那",
+    "pinyin": "nà",
+    "english": "that"
+  },
+  {
+    "other": "呢",
+    "pinyin": "ne",
+    "english": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\""
+  },
+  {
+    "other": "能",
+    "pinyin": "néng",
+    "english": "to be able to"
+  },
+  {
+    "other": "你",
+    "pinyin": "nǐ",
+    "english": "you (informal"
+  },
+  {
+    "other": "年",
+    "pinyin": "nián",
+    "english": "year"
+  },
+  {
+    "other": "女儿",
+    "pinyin": "nǚ ér",
+    "english": "daughter"
+  },
+  {
+    "other": "朋友",
+    "pinyin": "péng you",
+    "english": "friend"
+  },
+  {
+    "other": "漂亮",
+    "pinyin": "piào liang",
+    "english": "pretty"
+  },
+  {
+    "other": "苹果",
+    "pinyin": "píng guǒ",
+    "english": "apple"
+  },
+  {
+    "other": "七",
+    "pinyin": "qī",
+    "english": "seven"
+  },
+  {
+    "other": "钱",
+    "pinyin": "qián",
+    "english": "coin"
+  },
+  {
+    "other": "前面",
+    "pinyin": "qián miàn",
+    "english": "ahead"
+  },
+  {
+    "other": "请",
+    "pinyin": "qǐng",
+    "english": "to ask"
+  },
+  {
+    "other": "去",
+    "pinyin": "qù",
+    "english": "to go"
+  },
+  {
+    "other": "热",
+    "pinyin": "rè",
+    "english": "to warm up"
+  },
+  {
+    "other": "人",
+    "pinyin": "rén",
+    "english": "man"
+  },
+  {
+    "other": "认识",
+    "pinyin": "rèn shi",
+    "english": "to know"
+  },
+  {
+    "other": "日",
+    "pinyin": "rì",
+    "english": "sun"
+  },
+  {
+    "other": "三",
+    "pinyin": "sān",
+    "english": "three"
+  },
+  {
+    "other": "商店",
+    "pinyin": "shāng diàn",
+    "english": "store"
+  },
+  {
+    "other": "上",
+    "pinyin": "shàng",
+    "english": "on top"
+  },
+  {
+    "other": "上午",
+    "pinyin": "shàng wǔ",
+    "english": "morning"
+  },
+  {
+    "other": "少",
+    "pinyin": "shǎo",
+    "english": "few"
+  },
+  {
+    "other": "谁",
+    "pinyin": "shéi",
+    "english": "who"
+  },
+  {
+    "other": "什么",
+    "pinyin": "shén me",
+    "english": "what?"
+  },
+  {
+    "other": "十",
+    "pinyin": "shí",
+    "english": "ten"
+  },
+  {
+    "other": "时候",
+    "pinyin": "shí hou",
+    "english": "time"
+  },
+  {
+    "other": "是",
+    "pinyin": "shì",
+    "english": "is"
+  },
+  {
+    "other": "书",
+    "pinyin": "shū",
+    "english": "book"
+  },
+  {
+    "other": "水",
+    "pinyin": "shuǐ",
+    "english": "water"
+  },
+  {
+    "other": "水果",
+    "pinyin": "shuǐ guǒ",
+    "english": "fruit"
+  },
+  {
+    "other": "睡觉",
+    "pinyin": "shuì jiào",
+    "english": "to go to bed"
+  },
+  {
+    "other": "说话",
+    "pinyin": "shuō huà",
+    "english": "to speak"
+  },
+  {
+    "other": "四",
+    "pinyin": "sì",
+    "english": "four"
+  },
+  {
+    "other": "岁",
+    "pinyin": "suì",
+    "english": "classifier for years (of age)"
+  },
+  {
+    "other": "他",
+    "pinyin": "tā",
+    "english": "he or him"
+  },
+  {
+    "other": "她",
+    "pinyin": "tā",
+    "english": "she"
+  },
+  {
+    "other": "太",
+    "pinyin": "tài",
+    "english": "highest"
+  },
+  {
+    "other": "天气",
+    "pinyin": "tiān qì",
+    "english": "weather"
+  },
+  {
+    "other": "听",
+    "pinyin": "tīng",
+    "english": "to listen"
+  },
+  {
+    "other": "同学",
+    "pinyin": "tóng xué",
+    "english": "to study at the same school"
+  },
+  {
+    "other": "喂",
+    "pinyin": "wèi",
+    "english": "to feed"
+  },
+  {
+    "other": "我",
+    "pinyin": "wǒ",
+    "english": "I"
+  },
+  {
+    "other": "我们",
+    "pinyin": "wǒ men",
+    "english": "we"
+  },
+  {
+    "other": "五",
+    "pinyin": "wǔ",
+    "english": "five"
+  },
+  {
+    "other": "喜欢",
+    "pinyin": "xǐ huan",
+    "english": "to like"
+  }
+]

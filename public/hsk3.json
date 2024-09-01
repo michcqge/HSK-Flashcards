@@ -1,0 +1,562 @@
+[
+  {
+    "other": "阿姨",
+    "pinyin": "ā yí",
+    "english": "maternal aunt"
+  },
+  {
+    "other": "啊",
+    "pinyin": "a",
+    "english": "modal particle ending sentence"
+  },
+  {
+    "other": "矮",
+    "pinyin": "ǎi",
+    "english": "low"
+  },
+  {
+    "other": "爱好",
+    "pinyin": "ài hào",
+    "english": "to like"
+  },
+  {
+    "other": "安静",
+    "pinyin": "ān jìng",
+    "english": "quiet"
+  },
+  {
+    "other": "把",
+    "pinyin": "bǎ",
+    "english": "to hold"
+  },
+  {
+    "other": "搬",
+    "pinyin": "bān",
+    "english": "to move"
+  },
+  {
+    "other": "班",
+    "pinyin": "bān",
+    "english": "team"
+  },
+  {
+    "other": "半",
+    "pinyin": "bàn",
+    "english": "half"
+  },
+  {
+    "other": "办法",
+    "pinyin": "bàn fǎ",
+    "english": "means"
+  },
+  {
+    "other": "办公室",
+    "pinyin": "bàn gōng shì",
+    "english": "office"
+  },
+  {
+    "other": "帮忙",
+    "pinyin": "bāng máng",
+    "english": "to help"
+  },
+  {
+    "other": "包",
+    "pinyin": "bāo",
+    "english": "to cover"
+  },
+  {
+    "other": "饱",
+    "pinyin": "bǎo",
+    "english": "to eat till full"
+  },
+  {
+    "other": "北方",
+    "pinyin": "běi fāng",
+    "english": "north"
+  },
+  {
+    "other": "被",
+    "pinyin": "bèi",
+    "english": "quilt"
+  },
+  {
+    "other": "鼻子",
+    "pinyin": "bí zi",
+    "english": "nose"
+  },
+  {
+    "other": "比较",
+    "pinyin": "bǐ jiào",
+    "english": "to compare"
+  },
+  {
+    "other": "比赛",
+    "pinyin": "bǐ sài",
+    "english": "competition (sports etc)"
+  },
+  {
+    "other": "必须",
+    "pinyin": "bì xū",
+    "english": "to have to"
+  },
+  {
+    "other": "变化",
+    "pinyin": "biàn huà",
+    "english": "change"
+  },
+  {
+    "other": "表示",
+    "pinyin": "biǎo shì",
+    "english": "to express"
+  },
+  {
+    "other": "表演",
+    "pinyin": "biǎo yǎn",
+    "english": "play"
+  },
+  {
+    "other": "别人",
+    "pinyin": "bié ren",
+    "english": "other people"
+  },
+  {
+    "other": "宾馆",
+    "pinyin": "bīn guǎn",
+    "english": "guesthouse"
+  },
+  {
+    "other": "冰箱",
+    "pinyin": "bīng xiāng",
+    "english": "icebox"
+  },
+  {
+    "other": "才",
+    "pinyin": "cái",
+    "english": "a moment ago"
+  },
+  {
+    "other": "菜单",
+    "pinyin": "cài dān",
+    "english": "menu"
+  },
+  {
+    "other": "参加",
+    "pinyin": "cān jiā",
+    "english": "to participate"
+  },
+  {
+    "other": "草",
+    "pinyin": "cǎo",
+    "english": "grass"
+  },
+  {
+    "other": "层",
+    "pinyin": "céng",
+    "english": "layer"
+  },
+  {
+    "other": "差",
+    "pinyin": "chà",
+    "english": "to differ from"
+  },
+  {
+    "other": "超市",
+    "pinyin": "chāo shì",
+    "english": "supermarket (abbr.)"
+  },
+  {
+    "other": "衬衫",
+    "pinyin": "chèn shān",
+    "english": "shirt"
+  },
+  {
+    "other": "成绩",
+    "pinyin": "chéng jì",
+    "english": "achievement"
+  },
+  {
+    "other": "城市",
+    "pinyin": "chéng shì",
+    "english": "city"
+  },
+  {
+    "other": "迟到",
+    "pinyin": "chí dào",
+    "english": "to arrive late"
+  },
+  {
+    "other": "出现",
+    "pinyin": "chū xiàn",
+    "english": "to appear"
+  },
+  {
+    "other": "除了",
+    "pinyin": "chú le",
+    "english": "besides"
+  },
+  {
+    "other": "厨房",
+    "pinyin": "chú fáng",
+    "english": "kitchen"
+  },
+  {
+    "other": "春",
+    "pinyin": "chūn",
+    "english": "spring (time)"
+  },
+  {
+    "other": "词语",
+    "pinyin": "cí yǔ",
+    "english": "word (general term including monosyllables through to short phrases)"
+  },
+  {
+    "other": "聪明",
+    "pinyin": "cōng ming",
+    "english": "acute (of sight and hearing)"
+  },
+  {
+    "other": "打扫",
+    "pinyin": "dǎ sǎo",
+    "english": "to clean"
+  },
+  {
+    "other": "打算",
+    "pinyin": "dǎ suàn",
+    "english": "to plan"
+  },
+  {
+    "other": "带",
+    "pinyin": "dài",
+    "english": "band"
+  },
+  {
+    "other": "担心",
+    "pinyin": "dān xīn",
+    "english": "anxious"
+  },
+  {
+    "other": "蛋糕",
+    "pinyin": "dàn gāo",
+    "english": "cake"
+  },
+  {
+    "other": "当然",
+    "pinyin": "dāng rán",
+    "english": "only natural"
+  },
+  {
+    "other": "地",
+    "pinyin": "de",
+    "english": "-ly"
+  },
+  {
+    "other": "灯",
+    "pinyin": "dēng",
+    "english": "lamp"
+  },
+  {
+    "other": "低",
+    "pinyin": "dī",
+    "english": "low"
+  },
+  {
+    "other": "地方",
+    "pinyin": "dì fang",
+    "english": "area"
+  },
+  {
+    "other": "地铁",
+    "pinyin": "dì tiě",
+    "english": "subway"
+  },
+  {
+    "other": "地图",
+    "pinyin": "dì tú",
+    "english": "map"
+  },
+  {
+    "other": "电梯",
+    "pinyin": "diàn tī",
+    "english": "elevator"
+  },
+  {
+    "other": "电子",
+    "pinyin": "diàn zǐ",
+    "english": "electronic"
+  },
+  {
+    "other": "冬",
+    "pinyin": "dōng",
+    "english": "sound of beating a drum"
+  },
+  {
+    "other": "东",
+    "pinyin": "dōng",
+    "english": "east"
+  },
+  {
+    "other": "动物",
+    "pinyin": "dòng wù",
+    "english": "animal"
+  },
+  {
+    "other": "短",
+    "pinyin": "duǎn",
+    "english": "short or brief"
+  },
+  {
+    "other": "段",
+    "pinyin": "duàn",
+    "english": "paragraph"
+  },
+  {
+    "other": "锻炼",
+    "pinyin": "duàn liàn",
+    "english": "to engage in physical exercise"
+  },
+  {
+    "other": "多么",
+    "pinyin": "duō me",
+    "english": "how (wonderful etc)"
+  },
+  {
+    "other": "饿",
+    "pinyin": "è",
+    "english": "to be hungry"
+  },
+  {
+    "other": "而且",
+    "pinyin": "ér qiě",
+    "english": "(not only ...) but also"
+  },
+  {
+    "other": "耳朵",
+    "pinyin": "ěr duo",
+    "english": "ear"
+  },
+  {
+    "other": "发烧",
+    "pinyin": "fā shāo",
+    "english": "to have a high temperature (from illness)"
+  },
+  {
+    "other": "发现",
+    "pinyin": "fā xiàn",
+    "english": "to find"
+  },
+  {
+    "other": "方便",
+    "pinyin": "fāng biàn",
+    "english": "convenient"
+  },
+  {
+    "other": "放",
+    "pinyin": "fàng",
+    "english": "to release"
+  },
+  {
+    "other": "放心",
+    "pinyin": "fàng xīn",
+    "english": "to feel relieved"
+  },
+  {
+    "other": "分",
+    "pinyin": "fēn",
+    "english": "to divide"
+  },
+  {
+    "other": "附近",
+    "pinyin": "fù jìn",
+    "english": "(in the) vicinity"
+  },
+  {
+    "other": "复习",
+    "pinyin": "fù xí",
+    "english": "variant of 復習|复习"
+  },
+  {
+    "other": "干净",
+    "pinyin": "gān jìng",
+    "english": "clean"
+  },
+  {
+    "other": "敢",
+    "pinyin": "gǎn",
+    "english": "to dare"
+  },
+  {
+    "other": "感冒",
+    "pinyin": "gǎn mào",
+    "english": "to catch cold"
+  },
+  {
+    "other": "刚才",
+    "pinyin": "gāng cái",
+    "english": "(just) a moment ago"
+  },
+  {
+    "other": "根据",
+    "pinyin": "gēn jù",
+    "english": "according to"
+  },
+  {
+    "other": "跟",
+    "pinyin": "gēn",
+    "english": "heel"
+  },
+  {
+    "other": "更",
+    "pinyin": "gèng",
+    "english": "more"
+  },
+  {
+    "other": "公园",
+    "pinyin": "gōng yuán",
+    "english": "public park"
+  },
+  {
+    "other": "故事",
+    "pinyin": "gù shi",
+    "english": "narrative"
+  },
+  {
+    "other": "刮",
+    "pinyin": "guā",
+    "english": "to blow (of the wind)"
+  },
+  {
+    "other": "关",
+    "pinyin": "guān",
+    "english": "mountain pass"
+  },
+  {
+    "other": "关系",
+    "pinyin": "guān xì",
+    "english": "variant of 關係|关系[guān xì]"
+  },
+  {
+    "other": "关心",
+    "pinyin": "guān xīn",
+    "english": "to care for sth"
+  },
+  {
+    "other": "关于",
+    "pinyin": "guān yú",
+    "english": "pertaining to"
+  },
+  {
+    "other": "国家",
+    "pinyin": "guó jiā",
+    "english": "country"
+  },
+  {
+    "other": "果汁",
+    "pinyin": "guǒ zhī",
+    "english": "fruit juice"
+  },
+  {
+    "other": "过去",
+    "pinyin": "guò qu",
+    "english": "(in the) past"
+  },
+  {
+    "other": "还是",
+    "pinyin": "hái shi",
+    "english": "or"
+  },
+  {
+    "other": "害怕",
+    "pinyin": "hài pà",
+    "english": "to be afraid"
+  },
+  {
+    "other": "河",
+    "pinyin": "hé",
+    "english": "river"
+  },
+  {
+    "other": "黑板",
+    "pinyin": "hēi bǎn",
+    "english": "blackboard"
+  },
+  {
+    "other": "护照",
+    "pinyin": "hù zhào",
+    "english": "passport"
+  },
+  {
+    "other": "花",
+    "pinyin": "huā",
+    "english": "flower"
+  },
+  {
+    "other": "花园",
+    "pinyin": "huā yuán",
+    "english": "garden"
+  },
+  {
+    "other": "画",
+    "pinyin": "huà",
+    "english": "to draw"
+  },
+  {
+    "other": "坏",
+    "pinyin": "huài",
+    "english": "bad"
+  },
+  {
+    "other": "环境",
+    "pinyin": "huán jìng",
+    "english": "environment"
+  },
+  {
+    "other": "换",
+    "pinyin": "huàn",
+    "english": "to change"
+  },
+  {
+    "other": "黄",
+    "pinyin": "huáng",
+    "english": "yellow"
+  },
+  {
+    "other": "会议",
+    "pinyin": "huì yì",
+    "english": "meeting"
+  },
+  {
+    "other": "或者",
+    "pinyin": "huò zhě",
+    "english": "or"
+  },
+  {
+    "other": "机会",
+    "pinyin": "jī huì",
+    "english": "opportunity"
+  },
+  {
+    "other": "几乎",
+    "pinyin": "jī hū",
+    "english": "almost"
+  },
+  {
+    "other": "极",
+    "pinyin": "jí",
+    "english": "extremely"
+  },
+  {
+    "other": "记得",
+    "pinyin": "jì de",
+    "english": "to remember"
+  },
+  {
+    "other": "季节",
+    "pinyin": "jì jié",
+    "english": "time"
+  },
+  {
+    "other": "检查",
+    "pinyin": "jiǎn chá",
+    "english": "inspection"
+  }
+]

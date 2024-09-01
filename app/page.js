@@ -1,40 +1,55 @@
 "use client";
 
 import { useState } from "react";
-import Flashcard from "./components/Flashcard";
+import Link from "next/link";
 
 export default function Home() {
-  const [words, setWords] = useState([
-    { french: "Bonjour", english: "Hello" },
-    { french: "Merci", english: "Thank you" },
-    { french: "Au revoir", english: "Goodbye" },
-    { french: "Comment ça va?", english: "How are you?" },
-    { french: "Je ne parle pas français", english: "I don't speak French" },
-    { french: "Je suis fatigué", english: "I am tired" },
-    { french: "Je suis en retard", english: "I am late" },
+  const [decks, setDecks] = useState([
+    { id: "french", name: "French" },
+    { id: "hsk1", name: "HSK 1" },
+    { id: "hsk2", name: "HSK 2" },
+    { id: "hsk3", name: "HSK 3" },
+    { id: "hsk4", name: "HSK 4" },
+    { id: "hsk5", name: "HSK 5" },
+    { id: "hsk6", name: "HSK 6" },
   ]);
-  const [currentWordIndex, setCurrentWordIndex] = useState(0);
+  const [newDeckName, setNewDeckName] = useState("");
 
-  const nextWord = () => {
-    setCurrentWordIndex((prevIndex) => (prevIndex + 1) % words.length);
-  };
-
-  const addWord = (newWord) => {
-    setWords([...words, newWord]);
+  const addNewDeck = () => {
+    if (newDeckName.trim()) {
+      const newDeckId = newDeckName.toLowerCase().replace(/\s+/g, "-");
+      setDecks([...decks, { id: newDeckId, name: newDeckName.trim() }]);
+      setNewDeckName("");
+    }
   };
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen p-5 bg-gray-100 font-sans">
-      <h1 className="mb-8 text-3xl font-bold text-gray-800">
-        French Flashcards
-      </h1>
-      <Flashcard word={words[currentWordIndex]} onAddWord={addWord} />
-      <button
-        onClick={nextWord}
-        className="mt-8 px-6 py-3 text-base font-medium text-white bg-blue-500 rounded-md hover:bg-blue-600 transition-colors duration-300"
-      >
-        Next Word
-      </button>
+      <h1 className="mb-8 text-3xl font-bold text-gray-800">Flashcard Decks</h1>
+      <div className="grid gap-4 mb-8 grid-cols-2">
+        {decks.map((deck) => (
+          <Link key={deck.id} href={`/deck/${deck.id}`}>
+            <div className="px-6 py-4 text-lg font-medium text-white bg-blue-500 rounded-md hover:bg-blue-600 transition-colors duration-300 cursor-pointer">
+              {deck.name}
+            </div>
+          </Link>
+        ))}
+      </div>
+      <div className="flex gap-2">
+        <input
+          type="text"
+          value={newDeckName}
+          onChange={(e) => setNewDeckName(e.target.value)}
+          placeholder="New deck name"
+          className="px-4 py-2 border border-gray-300 rounded-md"
+        />
+        <button
+          onClick={addNewDeck}
+          className="px-4 py-2 text-white bg-green-500 rounded-md hover:bg-green-600 transition-colors duration-300"
+        >
+          Add Deck
+        </button>
+      </div>
     </div>
   );
 }

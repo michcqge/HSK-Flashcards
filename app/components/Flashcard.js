@@ -1,9 +1,12 @@
 import { useState } from "react";
 import AddWordForm from "./AddWordForm";
 
-export default function Flashcard({ word, onAddWord }) {
-  const [showTranslation, setShowTranslation] = useState(false);
-
+export default function Flashcard({
+  word,
+  onAddWord,
+  showTranslation,
+  setShowTranslation,
+}) {
   const toggleTranslation = () => {
     setShowTranslation(!showTranslation);
   };
@@ -15,11 +18,20 @@ export default function Flashcard({ word, onAddWord }) {
         onClick={toggleTranslation}
       >
         <div className="w-full h-full flex flex-col items-center justify-center p-5">
-          <h2 className="text-4xl font-bold text-gray-800 m-0">
-            {word.french}
-          </h2>
+          <h2 className="text-4xl font-bold text-gray-800 m-0">{word.other}</h2>
           {showTranslation && (
-            <p className="text-2xl mt-2 text-gray-600">{word.english}</p>
+            <div className="mt-2">
+              {Object.entries(word).map(([key, value]) => {
+                if (key !== "other") {
+                  return (
+                    <p key={key} className="text-2xl text-gray-600">
+                      {key}: {value}
+                    </p>
+                  );
+                }
+                return null;
+              })}
+            </div>
           )}
         </div>
       </div>
