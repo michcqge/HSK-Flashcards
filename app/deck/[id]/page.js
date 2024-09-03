@@ -51,6 +51,10 @@ export default function Deck() {
       if (event.key === "ArrowLeft") {
         previousWord();
       }
+      if (event.key === " ") {
+        event.preventDefault(); // Prevent default space bar behavior
+        setShowTranslation((showTranslation) => !showTranslation);
+      }
     };
 
     window.addEventListener("keydown", handleKeyDown);
