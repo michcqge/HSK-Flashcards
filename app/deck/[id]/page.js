@@ -62,7 +62,7 @@ export default function Deck() {
     return () => {
       window.removeEventListener("keydown", handleKeyDown);
     };
-  }, [words]); // Add words as a dependency
+  }, [words, nextWord, previousWord]); // Add words as a dependency
 
   const [previousIndices, setPreviousIndices] = useState([]);
 
