@@ -64,18 +64,25 @@ export default function Deck() {
     };
   }, [words]); // Add words as a dependency
 
+  const [previousIndices, setPreviousIndices] = useState([]);
+
   const nextWord = () => {
     if (words.length > 0) {
-      setCurrentWordIndex((prevIndex) => (prevIndex + 1) % words.length);
+      setPreviousIndices((prev) => [...prev, currentWordIndex]);
+      let newIndex;
+      do {
+        newIndex = Math.floor(Math.random() * words.length);
+      } while (newIndex === currentWordIndex && words.length > 1);
+      setCurrentWordIndex(newIndex);
       setShowTranslation(false); // Reset translation visibility
     }
   };
 
   const previousWord = () => {
-    if (words.length > 0) {
-      setCurrentWordIndex(
-        (prevIndex) => (prevIndex - 1 + words.length) % words.length
-      );
+    if (previousIndices.length > 0) {
+      const lastIndex = previousIndices[previousIndices.length - 1];
+      setCurrentWordIndex(lastIndex);
+      setPreviousIndices((prev) => prev.slice(0, -1));
       setShowTranslation(false); // Reset translation visibility
     }
   };
