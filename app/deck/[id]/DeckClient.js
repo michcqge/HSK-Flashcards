@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import Flashcard from "../../components/Flashcard";
 import Link from "next/link";
 import hsk1 from "../../../public/hsk1.json";
@@ -24,39 +24,53 @@ export default function DeckClient({ id }) {
   const [words, setWords] = useState([]);
   const [currentWordIndex, setCurrentWordIndex] = useState(0);
   const [showTranslation, setShowTranslation] = useState(false);
+  const [wordHistory, setWordHistory] = useState([]);
 
   useEffect(() => {
     setWords(wordlists[id] || []);
+    setWordHistory([]);
+    setCurrentWordIndex(0);
   }, [id, wordlists]);
 
-  useEffect(() => {
-    const handleKeyDown = (event) => {
-      if (event.key === "ArrowRight") {
-        nextWord();
-      }
-      if (event.key === " ") {
-        event.preventDefault(); // Prevent default space bar behavior
-        setShowTranslation((showTranslation) => !showTranslation);
-      }
-    };
-
-    window.addEventListener("keydown", handleKeyDown);
-
-    return () => {
-      window.removeEventListener("keydown", handleKeyDown);
-    };
-  }, [words]); // Add words as a dependency
-
-  const nextWord = () => {
+  const nextWord = useCallback(() => {
     if (words.length > 0) {
       let newIndex;
       do {
         newIndex = Math.floor(Math.random() * words.length);
       } while (newIndex === currentWordIndex && words.length > 1);
+      setWordHistory((prevHistory) => [...prevHistory, currentWordIndex]);
       setCurrentWordIndex(newIndex);
-      setShowTranslation(false); // Reset translation visibility
+      setShowTranslation(false);
     }
-  };
+  }, [words, currentWordIndex]);
+
+  const previousWord = useCallback(() => {
+    if (wordHistory.length > 0) {
+      setWordHistory((prevHistory) => {
+        const newHistory = [...prevHistory];
+        const prevIndex = newHistory.pop();
+        setCurrentWordIndex(prevIndex);
+        return newHistory;
+      });
+      setShowTranslation(false);
+    }
+  }, [wordHistory]);
+
+  useEffect(() => {
+    const handleKeyDown = (event) => {
+      if (event.key === "ArrowRight") {
+        nextWord();
+      } else if (event.key === "ArrowLeft") {
+        previousWord();
+      } else if (event.key === " ") {
+        event.preventDefault();
+        setShowTranslation((prev) => !prev);
+      }
+    };
+
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [nextWord, previousWord]);
 
   const addWord = (newWord) => {
     setWords([...words, newWord]);
@@ -91,7 +105,11 @@ export default function DeckClient({ id }) {
         />
       )}
       <div className="flex justify-center items-center gap-4">
-        <button className="mt-8 px-6 py-3 text-base font-medium text-white rounded-md transition-colors duration-300 bg-blue-500 hover:bg-blue-600">
+        <button
+          onClick={previousWord}
+          className="mt-8 px-6 py-3 text-base font-medium text-white rounded-md transition-colors duration-300 bg-blue-500 hover:bg-blue-600"
+          disabled={wordHistory.length === 0}
+        >
           Previous Word
         </button>
         <button
