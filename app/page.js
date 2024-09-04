@@ -5,7 +5,7 @@ import Link from "next/link";
 
 export default function Home() {
   const [decks, setDecks] = useState([
-    // { id: "french", name: "French" },
+    { id: "french", name: "French" },
     { id: "hsk1", name: "HSK 1" },
     { id: "hsk2", name: "HSK 2" },
     { id: "hsk3", name: "HSK 3" },
@@ -35,7 +35,7 @@ export default function Home() {
           </Link>
         ))}
       </div>
-      {/* <div className="flex gap-2">
+      <div className="flex gap-2">
         <input
           type="text"
           value={newDeckName}
@@ -49,7 +49,7 @@ export default function Home() {
         >
           Add Deck
         </button>
-      </div> */}
+      </div>
     </div>
   );
 }
