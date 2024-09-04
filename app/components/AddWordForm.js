@@ -20,7 +20,7 @@ export default function AddWordForm({ onAddWord }) {
       {!showForm ? (
         <button
           onClick={() => setShowForm(true)}
-          className="w-full px-4 py-2 text-white bg-blue-500 rounded-md hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+          className="w-full px-4 py-2 text-white bg-blue-500 rounded-lg hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
         >
           Add Word
         </button>
@@ -32,7 +32,7 @@ export default function AddWordForm({ onAddWord }) {
               value={french}
               onChange={(e) => setFrench(e.target.value)}
               placeholder="Word"
-              className="text-black w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="text-black w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
               required
             />
           </div>
@@ -42,7 +42,7 @@ export default function AddWordForm({ onAddWord }) {
               value={english}
               onChange={(e) => setEnglish(e.target.value)}
               placeholder="English translation"
-              className="text-black w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="text-black w-full px-3 py-2 border border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
               required
             />
           </div>
@@ -50,13 +50,13 @@ export default function AddWordForm({ onAddWord }) {
             <button
               type="button"
               onClick={() => setShowForm(false)}
-              className="px-4 py-2 text-gray-600 bg-gray-200 rounded-md hover:bg-gray-300 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2"
+              className="px-4 py-2 text-gray-600 bg-gray-200 rounded-lg hover:bg-gray-300 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:ring-offset-2"
             >
               Cancel
             </button>
             <button
               type="submit"
-              className="px-4 py-2 text-white bg-green-500 rounded-md hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2"
+              className="px-4 py-2 text-white bg-green-500 rounded-lg hover:bg-green-600 focus:outline-none focus:ring-2 focus:ring-green-500 focus:ring-offset-2"
             >
               Submit
             </button>

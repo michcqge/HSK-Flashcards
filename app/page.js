@@ -5,7 +5,6 @@ import Link from "next/link";
 
 export default function Home() {
   const [decks, setDecks] = useState([
-    { id: "french", name: "French" },
     { id: "hsk1", name: "HSK 1" },
     { id: "hsk2", name: "HSK 2" },
     { id: "hsk3", name: "HSK 3" },
@@ -24,7 +23,7 @@ export default function Home() {
   };
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen p-5 bg-gray-100 font-sans">
+    <div className="flex flex-col items-center justify-center min-h-screen p-5 bg-copper-rose-200 font-sans">
       <h1 className="mb-8 text-3xl font-bold text-gray-800">Flashcard Decks</h1>
       <div className="grid gap-4 mb-8 grid-cols-2">
         {decks.map((deck) => (
@@ -35,7 +34,7 @@ export default function Home() {
           </Link>
         ))}
       </div>
-      <div className="flex gap-2">
+      {/* <div className="flex gap-2">
         <input
           type="text"
           value={newDeckName}
@@ -49,7 +48,7 @@ export default function Home() {
         >
           Add Deck
         </button>
-      </div>
+      </div> */}
     </div>
   );
 }

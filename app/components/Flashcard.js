@@ -14,7 +14,7 @@ export default function Flashcard({
   return (
     <div className="flex flex-col items-center">
       <div
-        className="w-72 h-44 perspective-1000 cursor-pointer bg-gradient-to-br from-white to-gray-200 rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300"
+        className="w-72 h-44 perspective-1000 cursor-pointer bg-gradient-to-br border-2 border-stone-500 from-white to-gray-200 rounded-2xl shadow-lg hover:shadow-xl transition-shadow duration-300"
         onClick={toggleTranslation}
       >
         <div className="w-full h-full flex flex-col items-center justify-center p-5">
