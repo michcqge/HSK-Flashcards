@@ -19,18 +19,16 @@ const initialWordlists = {
   hsk6: hsk6,
 };
 
-export default function DeckClient({ id }) {
-  const [wordlists, setWordlists] = useState(initialWordlists);
-  const [words, setWords] = useState([]);
+export default function FlashcardPage({ id }) {
+  const [words, setWords] = useState(initialWordlists[id] || []);
   const [currentWordIndex, setCurrentWordIndex] = useState(0);
   const [showTranslation, setShowTranslation] = useState(false);
   const [wordHistory, setWordHistory] = useState([]);
 
   useEffect(() => {
-    setWords(wordlists[id] || []);
     setWordHistory([]);
     setCurrentWordIndex(0);
-  }, [id, wordlists]);
+  }, []);
 
   const nextWord = useCallback(() => {
     if (words.length > 0) {
@@ -73,11 +71,7 @@ export default function DeckClient({ id }) {
   }, [nextWord, previousWord]);
 
   const addWord = (newWord) => {
-    setWords([...words, newWord]);
-    setWordlists({
-      ...wordlists,
-      [id]: [...(wordlists[id] || []), newWord],
-    });
+    setWords(words.concat(newWord)); //add new word and update the state
   };
 
   if (words.length === 0) {

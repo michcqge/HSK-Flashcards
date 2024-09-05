@@ -1,4 +1,4 @@
-import DeckClient from "./DeckClient";
+import FlashcardPage from "./DeckClient";
 
 export async function generateStaticParams() {
   return [
@@ -12,5 +12,5 @@ export async function generateStaticParams() {
 }
 
 export default function Deck({ params }) {
-  return <DeckClient id={params.id} />;
+  return <FlashcardPage id={params.id} />;
 }
