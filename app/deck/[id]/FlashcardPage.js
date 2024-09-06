@@ -1,5 +1,6 @@
 "use client";
 
+import AddWordComponent from "../../components/AddWordComponent";
 import { useState, useEffect, useCallback } from "react";
 import Flashcard from "../../components/Flashcard";
 import Link from "next/link";
@@ -71,7 +72,7 @@ export default function FlashcardPage({ id }) {
   }, [nextWord, previousWord]);
 
   const addWord = (newWord) => {
-    setWords(words.concat(newWord)); //add new word and update the state
+    setWords(words.concat(newWord));
   };
 
   if (words.length === 0) {
@@ -101,20 +102,21 @@ export default function FlashcardPage({ id }) {
       <div className="flex justify-center items-center gap-4">
         <button
           onClick={previousWord}
-          className="mt-8 px-6 py-3 text-base font-medium text-white rounded-md transition-colors duration-300 bg-blue-500 hover:bg-blue-600"
+          className="mt-4 px-6 py-3 text-base font-medium text-white rounded-md transition-colors duration-300 bg-blue-500 hover:bg-blue-600"
           disabled={wordHistory.length === 0}
         >
           Previous Word
         </button>
         <button
           onClick={nextWord}
-          className="mt-8 px-6 py-3 text-base font-medium text-white rounded-md transition-colors duration-300 bg-blue-500 hover:bg-blue-600"
+          className="mt-4 px-6 py-3 text-base font-medium text-white rounded-md transition-colors duration-300 bg-blue-500 hover:bg-blue-600"
         >
           Next Word
         </button>
       </div>
+      <AddWordComponent onAddWord={addWord} />
       <Link href="/">
-        <button className="mt-8 px-6 py-3 text-base font-medium text-white rounded-md transition-colors duration-300 bg-gray-500 hover:bg-gray-600">
+        <button className="mt-4 px-6 py-3 text-base font-medium text-white rounded-md transition-colors duration-300 bg-gray-500 hover:bg-gray-600">
           Back to Home
         </button>
       </Link>{" "}

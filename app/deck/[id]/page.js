@@ -1,4 +1,4 @@
-import FlashcardPage from "./DeckClient";
+import FlashcardPage from "./FlashcardPage";
 
 export async function generateStaticParams() {
   return [
