@@ -87,9 +87,9 @@ export default function FlashcardPage({ id }) {
   }
 
   return (
-    <div className="flex flex-col items-center justify-center min-h-screen p-5 bg-gray-100 font-sans">
-      <h1 className="mb-8 text-3xl font-bold text-gray-800">
-        {id.charAt(0).toUpperCase() + id.slice(1)} Flashcards
+    <div className="flex flex-col items-center justify-center min-h-screen p-5 bg-darkGray font-sans">
+      <h1 className="mb-8 text-3xl font-bold text-sage">
+        {id.toUpperCase()} Flashcards
       </h1>
       {words.length > 0 && (
         <Flashcard
@@ -99,24 +99,29 @@ export default function FlashcardPage({ id }) {
           setShowTranslation={setShowTranslation}
         />
       )}
+      <p className="mt-2 text-sm text-gray-400">
+        Click to or use spacebar to {showTranslation ? "hide" : "show"}{" "}
+        translation
+      </p>
+      <p className="text-sm text-gray-400">Use arrow keys to navigate</p>
       <div className="flex justify-center items-center gap-4">
         <button
           onClick={previousWord}
-          className="mt-4 px-6 py-3 text-base font-medium text-white rounded-md transition-colors duration-300 bg-blue-500 hover:bg-blue-600"
+          className="mt-4 px-6 py-3 text-base font-medium text-darkOlive rounded-md transition-colors duration-300 bg-sage hover:bg-darkSage"
           disabled={wordHistory.length === 0}
         >
           Previous Word
         </button>
         <button
           onClick={nextWord}
-          className="mt-4 px-6 py-3 text-base font-medium text-white rounded-md transition-colors duration-300 bg-blue-500 hover:bg-blue-600"
+          className="mt-4 px-6 py-3 text-base font-medium text-darkOlive rounded-md transition-colors duration-300 bg-sage hover:bg-darkSage"
         >
           Next Word
         </button>
       </div>
       <AddWordComponent onAddWord={addWord} />
       <Link href="/">
-        <button className="mt-4 px-6 py-3 text-base font-medium text-white rounded-md transition-colors duration-300 bg-gray-500 hover:bg-gray-600">
+        <button className="mt-4 px-6 py-3 text-base font-medium text-sage rounded-md transition-colors duration-300 bg-gray-500 hover:bg-gray-600">
           Back to Home
         </button>
       </Link>{" "}

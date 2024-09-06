@@ -23,7 +23,7 @@ export default function AddWordComponent({ onAddWord }) {
         <div className="flex justify-center">
           <button
             onClick={() => setShowForm(true)}
-            className="px-6 py-3 text-white bg-blue-500 rounded-lg hover:bg-blue-600 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
+            className="px-6 py-3 text-darkOlive font-medium bg-sage rounded-lg hover:bg-darkSage focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2"
           >
             Add Word
           </button>

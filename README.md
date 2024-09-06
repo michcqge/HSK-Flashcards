@@ -13,6 +13,16 @@ You can access the live application [here](https://michcqge.github.io/HSK-Flashc
 - Use the space bar to flip the card
 - Next words are randomized
 
+## Color Palette
+
+![alt text](image.png)
+#b3be62
+#7c892f
+#f1f4cc
+#005b4c
+
+![alt text](image-1.png)
+
 If you would like to run the application locally, follow the instructions below.
 
 ## Getting Started
