@@ -24,11 +24,13 @@ export default function Home() {
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen p-5 bg-darkGray font-sans">
-      <h1 className="mb-8 text-3xl font-bold text-sage">Flashcard Decks</h1>
+      <h1 className="mb-8 text-4xl font-bold text-sage drop-shadow-lg">
+        Flashcard Decks
+      </h1>
       <div className="grid gap-4 mb-8 grid-cols-2">
         {decks.map((deck) => (
           <Link key={deck.id} href={`/deck/${deck.id}`}>
-            <div className="px-6 py-4 text-lg font-medium text-darkOlive bg-sage rounded-md hover:bg-darkSage transition-colors duration-300 cursor-pointer">
+            <div className="px-6 py-4 text-lg font-medium text-darkOlive bg-sage rounded-lg shadow-md hover:shadow-lg hover:bg-darkSage transition-all duration-300 cursor-pointer transform hover:-translate-y-1">
               {deck.name}
             </div>
           </Link>
